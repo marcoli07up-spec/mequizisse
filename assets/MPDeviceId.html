@@ -1,0 +1,33 @@
+<html>
+<head>
+    <script src="https://www.mercadopago.com/v2/security.js" view="checkout"></script>
+</head>
+<body>
+<script>
+        window.onload = function () {
+          let callbackDone = false;
+          const RETRY_MAX = 20;
+          const DELAY_RETRY = 250;
+          let currentRetry = 0;
+          const searchDeviceId = () => {
+            const deviceId = window.MP_DEVICE_SESSION_ID;
+            if (!deviceId) {
+              currentRetry++;
+              if (currentRetry > RETRY_MAX) {
+                window.Android.messageFromWeb('CANCEL');
+              }
+              setTimeout(() => {
+                   searchDeviceId();
+               }, DELAY_RETRY);
+            } else {
+              if(!callbackDone){
+                callbackDone = true;
+                window.Android.messageFromWeb(deviceId);
+              }
+            }
+          };
+          searchDeviceId();
+        }
+</script>
+</body>
+</html>

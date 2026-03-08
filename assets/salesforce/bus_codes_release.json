@@ -1,0 +1,154 @@
+[
+  {
+    "name": "Argentina",
+    "code": "AR",
+    "applicationId": "e2fcb33d-ad75-49e6-9491-49d904a1e4d8",
+    "accessToken": "ftczxj4dwutuwwtmrsu85tg6",
+    "type": "release",
+    "mid": 100010420
+  },
+  {
+    "name": "Aruba",
+    "code": "AW",
+    "applicationId": "9d612d04-8571-45c9-a75a-7add997fcbbc",
+    "accessToken": "t2q945rmrubbvd5tgfexm82d",
+    "type": "release",
+    "mid": 100010424
+  },
+  {
+    "name": "Brazil",
+    "code": "BR",
+    "applicationId": "73c6fbb5-99c5-4e05-9754-ea8584a41390",
+    "accessToken": "mznjzyyhf4fseturxzr2tg4y",
+    "type": "release",
+    "mid": 100010421
+  },
+  {
+    "name": "Curação",
+    "code": "CW",
+    "applicationId": "9d612d04-8571-45c9-a75a-7add997fcbbc",
+    "accessToken": "t2q945rmrubbvd5tgfexm82d",
+    "type": "release",
+    "mid": 100010424
+  },
+  {
+    "name": "Chile",
+    "code": "CL",
+    "applicationId": "13fdaf5f-844a-4d74-9ba5-d3eea2d9b87d",
+    "accessToken": "h8pjyce45bybx9f9f4duumfs",
+    "type": "release",
+    "mid": 100010424
+  },
+  {
+    "name": "Colombia",
+    "code": "CO",
+    "applicationId": "8e1a65f6-8052-4c7a-8959-25f4b29d80e3",
+    "accessToken": "vscph98cdckp4ccsew5skzmn",
+    "type": "release",
+    "mid": 100010422
+  },
+  {
+    "name": "Costa Rica",
+    "code": "CR",
+    "applicationId": "1fed142a-d4cb-471a-b6d3-b9ff0c96fa06",
+    "accessToken": "zj8p8sfn8nz69mwwq3a6xnbu",
+    "type": "release",
+    "mid": 100010424
+  },
+  {
+    "name": "Ecuador",
+    "code": "EC",
+    "applicationId": "27dd3de5-acc0-47e5-986d-279ec5353fc0",
+    "accessToken": "48rd6p3wepwv4vgfesk2bf5b",
+    "type": "release",
+    "mid": 100010424
+  },
+  {
+    "name": "Guadeloupe",
+    "code": "GP",
+    "applicationId": "6821c78a-a87c-4179-9517-2a5bba798277",
+    "accessToken": "cwy3nty5epz6zyadxqpnw3xp",
+    "type": "release",
+    "mid": 100010424
+  },
+  {
+    "name": "Guyana",
+    "code": "GF",
+    "applicationId": "1516cb21-55d9-48d2-afe9-e16f2cbfbfa1",
+    "accessToken": "pc9m6nnkwf84vsgamu2mwdje",
+    "type": "release",
+    "mid": 100010424
+  },
+  {
+    "name": "Martinique",
+    "code": "MQ",
+    "applicationId": "3be6413e-93d8-4e54-821c-05d006e34acb",
+    "accessToken": "fuazyn96dzfz6e67fdda2bjf",
+    "type": "release",
+    "mid": 100010424
+  },
+  {
+    "name": "Mexico",
+    "code": "MX",
+    "applicationId": "1bc8212e-8033-47f1-8407-698c5a66858e",
+    "accessToken": "gkztau99jkcu3gaqxgavzvt2",
+    "type": "release",
+    "mid": 100010423
+  },
+  {
+    "name": "Panama",
+    "code": "PA",
+    "applicationId": "87952111-92d5-4723-a145-4d4f260ec835",
+    "accessToken": "cfsepr5zmnztmep7dnncpppm",
+    "type": "release",
+    "mid": 100010424
+  },
+  {
+    "name": "Peru",
+    "code": "PE",
+    "applicationId": "95fbcb5e-acb0-4d51-a3fe-177f97d1a06a",
+    "accessToken": "kjn42qwqrwtnk6akb5vk89sb",
+    "type": "release",
+    "mid": 100010424
+  },
+  {
+    "name": "Puerto Rico",
+    "code": "PR",
+    "applicationId": "48673236-cb23-4c00-8a4e-e5d4f003e43c",
+    "accessToken": "sqacsf47b4jceedea7xt5yhe",
+    "type": "release",
+    "mid": 100010424
+  },
+  {
+    "name": "St Croix & St Thomas",
+    "code": "VI",
+    "applicationId": "0219511c-3c47-44c7-9bbd-f1a3a92c5bdc",
+    "accessToken": "fu9tzddkzdc92d23vm5ecpfz",
+    "type": "release",
+    "mid": 100010424
+  },
+  {
+    "name": "Trinidad and Tobago",
+    "code": "TT",
+    "applicationId": "9857bea1-cb6c-49f4-8ae5-f91fe6596d52",
+    "accessToken": "fda23kyke9eex9srf9q6akew",
+    "type": "release",
+    "mid": 100010424
+  },
+  {
+    "name": "Uruguay",
+    "code": "UY",
+    "applicationId": "741f4b89-aaaf-4da0-9cf6-30f91f42c043",
+    "accessToken": "w4p3cbbvvftgqnns96f7suhu",
+    "type": "release",
+    "mid": 100010424
+  },
+  {
+    "name": "Venezuela, Bolivarian Republic of",
+    "code": "VE",
+    "applicationId": "b16feae1-e01f-4e8d-9c18-b83f11322a65",
+    "accessToken": "4e7tzfp3fegmwn7w73sgyskx",
+    "type": "release",
+    "mid": 100010424
+  }
+]

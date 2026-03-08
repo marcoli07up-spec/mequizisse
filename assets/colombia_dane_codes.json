@@ -1,0 +1,5642 @@
+[
+ {
+   "state": "Amazonas",
+   "city": "El Encanto",
+   "key": "ama_el_encanto"
+ },
+ {
+   "state": "Amazonas",
+   "city": "La Chorrera",
+   "key": "ama_la_chorrera"
+ },
+ {
+   "state": "Amazonas",
+   "city": "La Pedrera",
+   "key": "ama_la_pedrera"
+ },
+ {
+   "state": "Amazonas",
+   "city": "La Victoria",
+   "key": "ama_la_victoria"
+ },
+ {
+   "state": "Amazonas",
+   "city": "Leticia",
+   "key": "leticia"
+ },
+ {
+   "state": "Amazonas",
+   "city": "Mirití-Paraná",
+   "key": "ama_miriti_parana"
+ },
+ {
+   "state": "Amazonas",
+   "city": "Puerto Alegría",
+   "key": "ama_puerto_alegria"
+ },
+ {
+   "state": "Amazonas",
+   "city": "Puerto Arica",
+   "key": "ama_puerto_arica"
+ },
+ {
+   "state": "Amazonas",
+   "city": "Puerto Nariño",
+   "key": "ama_puerto_narino"
+ },
+ {
+   "state": "Amazonas",
+   "city": "Puerto Santander",
+   "key": "ama_santander"
+ },
+ {
+   "state": "Amazonas",
+   "city": "Tarapacá",
+   "key": "ama_tarapaca"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Abejorral",
+   "key": "ant_abejorral"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Abriaquí",
+   "key": "ant_abriaqui"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Alejandría",
+   "key": "ant_alejandria"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Amagá",
+   "key": "ant_amaga"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Amalfi",
+   "key": "ant_amalfi"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Andes",
+   "key": "ant_andes"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Angelópolis",
+   "key": "ant_angelopolis"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Angostura",
+   "key": "ant_angostura"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Anorí",
+   "key": "ant_anori"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Anzá",
+   "key": "ant_anza"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Apartadó",
+   "key": "ant_apartado"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Arboletes",
+   "key": "ant_arboletes"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Argelia",
+   "key": "ant_argelia"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Armenia",
+   "key": "ant_armenia"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Barbosa",
+   "key": "ant_barbosa"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Bello",
+   "key": "ant_bello"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Belmira",
+   "key": "ant_belmira"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Betania",
+   "key": "ant_betania"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Betulia",
+   "key": "ant_betulia"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Briceño",
+   "key": "ant_briceno"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Buriticá",
+   "key": "ant_buritica"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Cáceres",
+   "key": "ant_caceres"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Caicedo",
+   "key": "ant_caicedo"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Caldas",
+   "key": "ant_caldas"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Campamento",
+   "key": "ant_campamento"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Cañasgordas",
+   "key": "ant_canasgordas"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Caracolí",
+   "key": "ant_caracoli"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Caramanta",
+   "key": "ant_caramanta"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Carepa",
+   "key": "ant_carepa"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Carmen De Viboral",
+   "key": "ant_carmen_de_viboral"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Carolina",
+   "key": "ant_carolina"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Caucasia",
+   "key": "ant_caucasia"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Chigorodó",
+   "key": "ant_chigorodo"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Cisneros",
+   "key": "ant_cisneros"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Ciudad Bolívar",
+   "key": "ant_ciudad_bolivar"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Cocorná",
+   "key": "ant_cocorna"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Concepción",
+   "key": "ant_concepcion"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Concordia",
+   "key": "ant_concordia"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Copacabana",
+   "key": "ant_copacabana"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Dabeiba",
+   "key": "ant_dabeiba"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Don Matías",
+   "key": "ant_don_matias"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Ebéjico",
+   "key": "ant_ebejico"
+ },
+ {
+   "state": "Antioquia",
+   "city": "El Bagre",
+   "key": "ant_el_bagre"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Entrerrios",
+   "key": "ant_entrerrios"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Envigado",
+   "key": "ant_envigado"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Fredonia",
+   "key": "ant_fredonia"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Frontino",
+   "key": "ant_frontino"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Giraldo",
+   "key": "ant_giraldo"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Girardota",
+   "key": "ant_girardota"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Gómez Plata",
+   "key": "ant_gomez_plata"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Granada",
+   "key": "ant_granada"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Guadalupe",
+   "key": "ant_guadalupe"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Guarne",
+   "key": "ant_guarne"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Guatapé",
+   "key": "ant_guatape"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Heliconia",
+   "key": "ant_heliconia"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Hispania",
+   "key": "ant_hispania"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Itagüí",
+   "key": "ant_itagui"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Ituango",
+   "key": "ant_ituango"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Jardín",
+   "key": "ant_jardin"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Jericó",
+   "key": "ant_jerico"
+ },
+ {
+   "state": "Antioquia",
+   "city": "La Ceja",
+   "key": "ant_la_ceja"
+ },
+ {
+   "state": "Antioquia",
+   "city": "La Estrella",
+   "key": "ant_la_estrella"
+ },
+ {
+   "state": "Antioquia",
+   "city": "La Pintada",
+   "key": "ant_la_pintada"
+ },
+ {
+   "state": "Antioquia",
+   "city": "La Union",
+   "key": "ant_la_union"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Liborina",
+   "key": "ant_liborina"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Maceo",
+   "key": "ant_maceo"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Marinilla",
+   "key": "ant_marinilla"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Medellín",
+   "key": "medellin"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Montebello",
+   "key": "ant_montebello"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Murindó",
+   "key": "ant_murindo"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Mutatá",
+   "key": "ant_mutata"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Nariño",
+   "key": "ant_narino"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Nechí",
+   "key": "ant_nechi"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Necoclí",
+   "key": "ant_necocli"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Olaya",
+   "key": "ant_olaya"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Peñol",
+   "key": "ant_penol"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Peque",
+   "key": "ant_peque"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Pueblorrico",
+   "key": "ant_pueblorrico"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Puerto Berrío",
+   "key": "ant_puerto_berrio"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Puerto Nare",
+   "key": "ant_puerto_nare"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Puerto Triunfo",
+   "key": "ant_puerto_triunfo"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Remedios",
+   "key": "ant_remedios"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Retiro",
+   "key": "ant_retiro"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Rionegro",
+   "key": "ant_rionegro"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Sabanalarga",
+   "key": "ant_sabanalarga"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Sabaneta",
+   "key": "ant_sabaneta"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Salgar",
+   "key": "ant_salgar"
+ },
+ {
+   "state": "Antioquia",
+   "city": "San Andrés",
+   "key": "ant_san_andres"
+ },
+ {
+   "state": "Antioquia",
+   "city": "San Carlos",
+   "key": "ant_san_carlos"
+ },
+ {
+   "state": "Antioquia",
+   "city": "San Francisco",
+   "key": "ant_san_francisco"
+ },
+ {
+   "state": "Antioquia",
+   "city": "San Jerónimo",
+   "key": "ant_san_jeronimo"
+ },
+ {
+   "state": "Antioquia",
+   "city": "San José De La Montaña",
+   "key": "ant_san_jose_de_la_montana"
+ },
+ {
+   "state": "Antioquia",
+   "city": "San Juan De Urabá",
+   "key": "ant_san_juan_de_uraba"
+ },
+ {
+   "state": "Antioquia",
+   "city": "San Luis",
+   "key": "ant_san_luis"
+ },
+ {
+   "state": "Antioquia",
+   "city": "San Pedro",
+   "key": "ant_san_pedro"
+ },
+ {
+   "state": "Antioquia",
+   "city": "San Pedro De Urabá",
+   "key": "ant_san_pedro_de_uraba"
+ },
+ {
+   "state": "Antioquia",
+   "city": "San Rafael",
+   "key": "ant_san_rafael"
+ },
+ {
+   "state": "Antioquia",
+   "city": "San Roque",
+   "key": "ant_san_roque"
+ },
+ {
+   "state": "Antioquia",
+   "city": "San Vicente",
+   "key": "ant_san_vicente"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Santa Bárbara",
+   "key": "ant_santa_barbara"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Santa Fe De Antioquia",
+   "key": "ant_santa_fe_de_antioquia"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Santa Rosa De Osos",
+   "key": "ant_santa_rosa_de_osos"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Santo Domingo",
+   "key": "ant_santo_domingo"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Santuario",
+   "key": "ant_santuario"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Segovia",
+   "key": "ant_segovia"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Sonsón",
+   "key": "ant_sonson"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Sopetrán",
+   "key": "ant_sopetran"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Támesis",
+   "key": "ant_tamesis"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Tarazá",
+   "key": "ant_taraza"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Tarso",
+   "key": "ant_tarso"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Titiribí",
+   "key": "ant_titiribi"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Toledo",
+   "key": "ant_toledo"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Turbo",
+   "key": "ant_turbo"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Uramita",
+   "key": "ant_uramita"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Urrao",
+   "key": "ant_urrao"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Valdivia",
+   "key": "ant_valdivia"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Valparaíso",
+   "key": "ant_valparaiso"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Vegachí",
+   "key": "ant_vegachi"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Venecia",
+   "key": "ant_venecia"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Vigía Del Fuerte",
+   "key": "ant_vigia_del_fuerte"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Yalí",
+   "key": "ant_yali"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Yarumal",
+   "key": "ant_yarumal"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Yolombó",
+   "key": "ant_yolombo"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Yondó",
+   "key": "ant_yondo"
+ },
+ {
+   "state": "Antioquia",
+   "city": "Zaragoza",
+   "key": "ant_zaragoza"
+ },
+ {
+   "state": "Arauca",
+   "city": "Arauca",
+   "key": "arauca"
+ },
+ {
+   "state": "Arauca",
+   "city": "Arauquita",
+   "key": "ara_arauquita"
+ },
+ {
+   "state": "Arauca",
+   "city": "Cravo Norte",
+   "key": "ara_cravo_norte"
+ },
+ {
+   "state": "Arauca",
+   "city": "Fortul",
+   "key": "ara_fortul"
+ },
+ {
+   "state": "Arauca",
+   "city": "Puerto Rondón",
+   "key": "ara_puerto_rondon"
+ },
+ {
+   "state": "Arauca",
+   "city": "Saravena",
+   "key": "ara_saravena"
+ },
+ {
+   "state": "Arauca",
+   "city": "Tame",
+   "key": "ara_tame"
+ },
+ {
+   "state": "Atlántico",
+   "city": "Baranoa",
+   "key": "atl_baranoa"
+ },
+ {
+   "state": "Atlántico",
+   "city": "Barranquilla",
+   "key": "barranquilla"
+ },
+ {
+   "state": "Atlántico",
+   "city": "Campo De La Cruz",
+   "key": "atl_campo_de_la_cruz"
+ },
+ {
+   "state": "Atlántico",
+   "city": "Candelaria",
+   "key": "atl_candelaria"
+ },
+ {
+   "state": "Atlántico",
+   "city": "Galapa",
+   "key": "atl_galapa"
+ },
+ {
+   "state": "Atlántico",
+   "city": "Juan De Acosta",
+   "key": "atl_juan_de_acosta"
+ },
+ {
+   "state": "Atlántico",
+   "city": "Luruaco",
+   "key": "atl_luruaco"
+ },
+ {
+   "state": "Atlántico",
+   "city": "Malambo",
+   "key": "atl_malambo"
+ },
+ {
+   "state": "Atlántico",
+   "city": "Manatí",
+   "key": "atl_manati"
+ },
+ {
+   "state": "Atlántico",
+   "city": "Palmar De Varela",
+   "key": "atl_palmar_de_varela"
+ },
+ {
+   "state": "Atlántico",
+   "city": "Piojó",
+   "key": "atl_piojo"
+ },
+ {
+   "state": "Atlántico",
+   "city": "Polonuevo",
+   "key": "atl_polonuevo"
+ },
+ {
+   "state": "Atlántico",
+   "city": "Ponedera",
+   "key": "atl_ponedera"
+ },
+ {
+   "state": "Atlántico",
+   "city": "Puerto Colombia",
+   "key": "atl_puerto_colombia"
+ },
+ {
+   "state": "Atlántico",
+   "city": "Repelón",
+   "key": "atl_repelon"
+ },
+ {
+   "state": "Atlántico",
+   "city": "Sabanagrande",
+   "key": "atl_sabanagrande"
+ },
+ {
+   "state": "Atlántico",
+   "city": "Sabanalarga",
+   "key": "atl_sabanalarga"
+ },
+ {
+   "state": "Atlántico",
+   "city": "Santa Lucía",
+   "key": "atl_santa_lucia"
+ },
+ {
+   "state": "Atlántico",
+   "city": "Santo Tomás",
+   "key": "atl_santo_tomas"
+ },
+ {
+   "state": "Atlántico",
+   "city": "Soledad",
+   "key": "atl_soledad"
+ },
+ {
+   "state": "Atlántico",
+   "city": "Suan",
+   "key": "atl_suan"
+ },
+ {
+   "state": "Atlántico",
+   "city": "Tubará",
+   "key": "atl_tubara"
+ },
+ {
+   "state": "Atlántico",
+   "city": "Usiacurí",
+   "key": "atl_usiacuri"
+ },
+ {
+   "state": "Bogotá D.C",
+   "city": "Bogotá D.C.",
+   "key": "bogota"
+ },
+ {
+   "state": "Bolivar",
+   "city": "Achí",
+   "key": "bol_achi"
+ },
+ {
+   "state": "Bolivar",
+   "city": "Altos Del Rosario",
+   "key": "bol_altos_del_rosario"
+ },
+ {
+   "state": "Bolivar",
+   "city": "Arenal",
+   "key": "bol_arenal"
+ },
+ {
+   "state": "Bolivar",
+   "city": "Arjona",
+   "key": "bol_arjona"
+ },
+ {
+   "state": "Bolivar",
+   "city": "Arroyohondo",
+   "key": "bol_arroyohondo"
+ },
+ {
+   "state": "Bolivar",
+   "city": "Barranco De Loba",
+   "key": "bol_barranco_de_loba"
+ },
+ {
+   "state": "Bolivar",
+   "city": "Calamar",
+   "key": "bol_calamar"
+ },
+ {
+   "state": "Bolivar",
+   "city": "Cantagallo",
+   "key": "bol_cantagallo"
+ },
+ {
+   "state": "Bolivar",
+   "city": "Cartagena",
+   "key": "cartagena"
+ },
+ {
+   "state": "Bolivar",
+   "city": "Cicuco",
+   "key": "bol_cicuco"
+ },
+ {
+   "state": "Bolivar",
+   "city": "Clemencia",
+   "key": "bol_clemencia"
+ },
+ {
+   "state": "Bolivar",
+   "city": "Córdoba",
+   "key": "bol_cordoba"
+ },
+ {
+   "state": "Bolivar",
+   "city": "El Carmen De Bolívar",
+   "key": "bol_el_carmen_de_bolivar"
+ },
+ {
+   "state": "Bolivar",
+   "city": "El Guamo",
+   "key": "bol_el_guamo"
+ },
+ {
+   "state": "Bolivar",
+   "city": "El Peñón",
+   "key": "bol_el_penon"
+ },
+ {
+   "state": "Bolivar",
+   "city": "Hatillo De Loba",
+   "key": "bol_hatillo_de_loba"
+ },
+ {
+   "state": "Bolivar",
+   "city": "Jurisdicción De Hatillo De Loba",
+   "key": "bol_jurisdiccion_hatillo_de_loba"
+ },
+ {
+   "state": "Bolivar",
+   "city": "Magangué",
+   "key": "bol_magangue"
+ },
+ {
+   "state": "Bolivar",
+   "city": "Mahates",
+   "key": "bol_mahates"
+ },
+ {
+   "state": "Bolivar",
+   "city": "Margarita",
+   "key": "bol_margarita"
+ },
+ {
+   "state": "Bolivar",
+   "city": "Maria La Baja",
+   "key": "bol_maria_la_baja"
+ },
+ {
+   "state": "Bolivar",
+   "city": "Mompós",
+   "key": "bol_mompos"
+ },
+ {
+   "state": "Bolivar",
+   "city": "Montecristo",
+   "key": "bol_montecristo"
+ },
+ {
+   "state": "Bolivar",
+   "city": "Morales",
+   "key": "bol_morales"
+ },
+ {
+   "state": "Bolivar",
+   "city": "Norosi",
+   "key": "bol_norosi"
+ },
+ {
+   "state": "Bolivar",
+   "city": "Pinillos",
+   "key": "bol_pinillos"
+ },
+ {
+   "state": "Bolivar",
+   "city": "Regidor",
+   "key": "bol_regidor"
+ },
+ {
+   "state": "Bolivar",
+   "city": "Río Viejo",
+   "key": "bol_rioviejo"
+ },
+ {
+   "state": "Bolivar",
+   "city": "San Cristóbal",
+   "key": "bol_san_cristobal"
+ },
+ {
+   "state": "Bolivar",
+   "city": "San Estanislao",
+   "key": "bol_san_estanislao"
+ },
+ {
+   "state": "Bolivar",
+   "city": "San Fernando",
+   "key": "bol_san_fernando"
+ },
+ {
+   "state": "Bolivar",
+   "city": "San Jacinto",
+   "key": "bol_san_jacinto"
+ },
+ {
+   "state": "Bolivar",
+   "city": "San Jacinto Del Cauca",
+   "key": "bol_san_jacinto_del_cauca"
+ },
+ {
+   "state": "Bolivar",
+   "city": "San Juan Nepomuceno",
+   "key": "bol_san_juan_nepomuceno"
+ },
+ {
+   "state": "Bolivar",
+   "city": "San Martín De Loba",
+   "key": "bol_san_martin_de_loba"
+ },
+ {
+   "state": "Bolivar",
+   "city": "San Pablo",
+   "key": "bol_san_pablo"
+ },
+ {
+   "state": "Bolivar",
+   "city": "Santa Catalina",
+   "key": "bol_santa_catalina"
+ },
+ {
+   "state": "Bolivar",
+   "city": "Santa Rosa",
+   "key": "bol_santa_rosa"
+ },
+ {
+   "state": "Bolivar",
+   "city": "Santa Rosa Del Sur",
+   "key": "bol_santa_rosa_del_sur"
+ },
+ {
+   "state": "Bolivar",
+   "city": "Simití",
+   "key": "bol_simiti"
+ },
+ {
+   "state": "Bolivar",
+   "city": "Soplaviento",
+   "key": "bol_soplaviento"
+ },
+ {
+   "state": "Bolivar",
+   "city": "Talaigua Nuevo",
+   "key": "bol_talaigua_nuevo"
+ },
+ {
+   "state": "Bolivar",
+   "city": "Tiquisio",
+   "key": "bol_tiquisio"
+ },
+ {
+   "state": "Bolivar",
+   "city": "Turbaco",
+   "key": "bol_turbaco"
+ },
+ {
+   "state": "Bolivar",
+   "city": "Turbana",
+   "key": "bol_turbana"
+ },
+ {
+   "state": "Bolivar",
+   "city": "Villanueva",
+   "key": "bol_villanueva"
+ },
+ {
+   "state": "Bolivar",
+   "city": "Zambrano",
+   "key": "bol_zambrano"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Almeida",
+   "key": "boy_almeida"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Aquitania",
+   "key": "boy_aquitania"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Arcabuco",
+   "key": "boy_arcabuco"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Belén",
+   "key": "boy_belen"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Berbeo",
+   "key": "boy_berbeo"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Betéitiva",
+   "key": "boy_beteitiva"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Boavita",
+   "key": "boy_boavita"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Boyacá",
+   "key": "boy_boyaca"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Briceño",
+   "key": "boy_briceno"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Buenavista",
+   "key": "boy_buenavista"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Busbanzá",
+   "key": "boy_busbanza"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Caldas",
+   "key": "boy_caldas"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Campohermoso",
+   "key": "boy_campohermoso"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Cerinza",
+   "key": "boy_cerinza"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Chinavita",
+   "key": "boy_chinavita"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Chiquinquirá",
+   "key": "boy_chiquinquira"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Chíquiza",
+   "key": "boy_chiquiza"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Chiscas",
+   "key": "boy_chiscas"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Chita",
+   "key": "boy_chita"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Chitaraque",
+   "key": "boy_chitaraque"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Chivatá",
+   "key": "boy_chivata"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Chivor",
+   "key": "boy_chivor"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Ciénega",
+   "key": "boy_cienega"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Cómbita",
+   "key": "boy_combita"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Coper",
+   "key": "boy_coper"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Corrales",
+   "key": "boy_corrales"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Covarachía",
+   "key": "boy_covarachia"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Cubará",
+   "key": "boy_cubara"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Cucaita",
+   "key": "boy_cucaita"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Cuítiva",
+   "key": "boy_cuitiva"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Duitama",
+   "key": "boy_duitama"
+ },
+ {
+   "state": "Boyacá",
+   "city": "El Cocuy",
+   "key": "boy_el_cocuy"
+ },
+ {
+   "state": "Boyacá",
+   "city": "El Espino",
+   "key": "boy_el_espino"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Firavitoba",
+   "key": "boy_firavitoba"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Floresta",
+   "key": "boy_floresta"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Gachantivá",
+   "key": "boy_gachantiva"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Gámeza",
+   "key": "boy_gameza"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Garagoa",
+   "key": "boy_garagoa"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Guacamayas",
+   "key": "boy_guacamayas"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Guateque",
+   "key": "boy_guateque"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Guayatá",
+   "key": "boy_guayata"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Güicán",
+   "key": "boy_guican"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Iza",
+   "key": "boy_iza"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Jenesano",
+   "key": "boy_jenesano"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Jericó",
+   "key": "boy_jerico"
+ },
+ {
+   "state": "Boyacá",
+   "city": "La Capilla",
+   "key": "boy_la_capilla"
+ },
+ {
+   "state": "Boyacá",
+   "city": "La Uvita",
+   "key": "boy_la_uvita"
+ },
+ {
+   "state": "Boyacá",
+   "city": "La Victoria",
+   "key": "boy_la_victoria"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Labranzagrande",
+   "key": "boy_labranzagrande"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Macanal",
+   "key": "boy_macanal"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Maripí",
+   "key": "boy_maripi"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Miraflores",
+   "key": "boy_miraflores"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Mongua",
+   "key": "boy_mongua"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Monguí",
+   "key": "boy_mongui"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Moniquirá",
+   "key": "boy_moniquira"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Motavita",
+   "key": "boy_motavita"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Muzo",
+   "key": "boy_muzo"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Nobsa",
+   "key": "boy_nobsa"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Nuevo Colón",
+   "key": "boy_nuevo_colon"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Oicatá",
+   "key": "boy_oicata"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Otanche",
+   "key": "boy_otanche"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Pachavita",
+   "key": "boy_pachavita"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Páez",
+   "key": "boy_paez"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Paipa",
+   "key": "boy_paipa"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Pajarito",
+   "key": "boy_pajarito"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Panqueba",
+   "key": "boy_panqueba"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Pauna",
+   "key": "boy_pauna"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Paya",
+   "key": "boy_paya"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Paz De Rio",
+   "key": "boy_paz_de_rio"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Pesca",
+   "key": "boy_pesca"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Pisba",
+   "key": "boy_pisva"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Puerto Boyacá",
+   "key": "boy_puerto_boyaca"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Quípama",
+   "key": "boy_quipama"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Ramiriquí",
+   "key": "boy_ramiriqui"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Ráquira",
+   "key": "boy_raquira"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Rondón",
+   "key": "boy_rondon"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Saboyá",
+   "key": "boy_saboya"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Sáchica",
+   "key": "boy_sachica"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Samacá",
+   "key": "boy_samaca"
+ },
+ {
+   "state": "Boyacá",
+   "city": "San Eduardo",
+   "key": "boy_san_eduardo"
+ },
+ {
+   "state": "Boyacá",
+   "city": "San José De Pare",
+   "key": "boy_san_jose_de_pare"
+ },
+ {
+   "state": "Boyacá",
+   "city": "San Luis De Gaceno",
+   "key": "boy_san_luis_de_gaceno"
+ },
+ {
+   "state": "Boyacá",
+   "city": "San Mateo",
+   "key": "boy_san_mateo"
+ },
+ {
+   "state": "Boyacá",
+   "city": "San Miguel De Sema",
+   "key": "boy_san_miguel_de_sema"
+ },
+ {
+   "state": "Boyacá",
+   "city": "San Pablo De Borbur",
+   "key": "boy_san_pablo_de_borbur"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Santa María",
+   "key": "boy_santa_maria"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Santa Rosa De Viterbo",
+   "key": "boy_santa_rosa_de_viterbo"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Santa Sofía",
+   "key": "boy_santa_sofia"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Santana",
+   "key": "boy_santana"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Sativanorte",
+   "key": "boy_sativanorte"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Sativasur",
+   "key": "boy_sativasur"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Siachoque",
+   "key": "boy_siachoque"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Soatá",
+   "key": "boy_soata"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Socha",
+   "key": "boy_socha"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Socotá",
+   "key": "boy_socota"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Sogamoso",
+   "key": "boy_sogamoso"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Somondoco",
+   "key": "boy_somondoco"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Sora",
+   "key": "boy_sora"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Soracá",
+   "key": "boy_soraca"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Sotaquirá",
+   "key": "boy_sotaquira"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Susacón",
+   "key": "boy_susacon"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Sutamarchán",
+   "key": "boy_sutamarchan"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Sutatenza",
+   "key": "boy_sutatenza"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Tasco",
+   "key": "boy_tasco"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Tenza",
+   "key": "boy_tenza"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Tibaná",
+   "key": "boy_tibana"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Tibasosa",
+   "key": "boy_tibasosa"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Tinjacá",
+   "key": "boy_tinjaca"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Tipacoque",
+   "key": "boy_tipacoque"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Toca",
+   "key": "boy_toca"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Togüí",
+   "key": "boy_togui"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Tópaga",
+   "key": "boy_topaga"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Tota",
+   "key": "boy_tota"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Tunja",
+   "key": "tunja"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Tununguá",
+   "key": "boy_tunungua"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Turmequé",
+   "key": "boy_turmeque"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Tuta",
+   "key": "boy_tuta"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Tutazá",
+   "key": "boy_tutaza"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Úmbita",
+   "key": "boy_umbita"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Ventaquemada",
+   "key": "boy_ventaquemada"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Villa De Leyva",
+   "key": "boy_villa_de_leyva"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Viracachá",
+   "key": "boy_viracacha"
+ },
+ {
+   "state": "Boyacá",
+   "city": "Zetaquira",
+   "key": "boy_zetaquira"
+ },
+ {
+   "state": "Caldas",
+   "city": "Aguadas",
+   "key": "cal_aguadas"
+ },
+ {
+   "state": "Caldas",
+   "city": "Anserma",
+   "key": "cal_anserma"
+ },
+ {
+   "state": "Caldas",
+   "city": "Aranzazu",
+   "key": "cal_aranzazu"
+ },
+ {
+   "state": "Caldas",
+   "city": "Belalcázar",
+   "key": "cal_belalcazar"
+ },
+ {
+   "state": "Caldas",
+   "city": "Chinchiná",
+   "key": "cal_chinchina"
+ },
+ {
+   "state": "Caldas",
+   "city": "Filadelfia",
+   "key": "cal_filadelfia"
+ },
+ {
+   "state": "Caldas",
+   "city": "La Dorada",
+   "key": "cal_la_dorada"
+ },
+ {
+   "state": "Caldas",
+   "city": "La Merced",
+   "key": "cal_la_merced"
+ },
+ {
+   "state": "Caldas",
+   "city": "Manizales",
+   "key": "manizales"
+ },
+ {
+   "state": "Caldas",
+   "city": "Manzanares",
+   "key": "cal_manzanares"
+ },
+ {
+   "state": "Caldas",
+   "city": "Marmato",
+   "key": "cal_marmato"
+ },
+ {
+   "state": "Caldas",
+   "city": "Marquetalia",
+   "key": "cal_marquetalia"
+ },
+ {
+   "state": "Caldas",
+   "city": "Marulanda",
+   "key": "cal_marulanda"
+ },
+ {
+   "state": "Caldas",
+   "city": "Neira",
+   "key": "cal_neira"
+ },
+ {
+   "state": "Caldas",
+   "city": "Norcasia",
+   "key": "cal_norcasia"
+ },
+ {
+   "state": "Caldas",
+   "city": "Pácora",
+   "key": "cal_pacora"
+ },
+ {
+   "state": "Caldas",
+   "city": "Palestina",
+   "key": "cal_palestina"
+ },
+ {
+   "state": "Caldas",
+   "city": "Pensilvania",
+   "key": "cal_pensilvania"
+ },
+ {
+   "state": "Caldas",
+   "city": "Riosucio",
+   "key": "cal_riosucio"
+ },
+ {
+   "state": "Caldas",
+   "city": "Risaralda",
+   "key": "cal_risaralda"
+ },
+ {
+   "state": "Caldas",
+   "city": "Salamina",
+   "key": "cal_salamina"
+ },
+ {
+   "state": "Caldas",
+   "city": "Samaná",
+   "key": "cal_samana"
+ },
+ {
+   "state": "Caldas",
+   "city": "San José",
+   "key": "cal_san_jose"
+ },
+ {
+   "state": "Caldas",
+   "city": "Supía",
+   "key": "cal_supia"
+ },
+ {
+   "state": "Caldas",
+   "city": "Victoria",
+   "key": "cal_victoria"
+ },
+ {
+   "state": "Caldas",
+   "city": "Villamaría",
+   "key": "cal_villamaria"
+ },
+ {
+   "state": "Caldas",
+   "city": "Viterbo",
+   "key": "cal_viterbo"
+ },
+ {
+   "state": "Caquetá",
+   "city": "Albania",
+   "key": "caq_albania"
+ },
+ {
+   "state": "Caquetá",
+   "city": "Belén De Los Andaquíes",
+   "key": "caq_belen_de_los_andaquies"
+ },
+ {
+   "state": "Caquetá",
+   "city": "Cartagena Del Chairá",
+   "key": "caq_cartagena_del_chaira"
+ },
+ {
+   "state": "Caquetá",
+   "city": "Curillo",
+   "key": "caq_curillo"
+ },
+ {
+   "state": "Caquetá",
+   "city": "El Doncello",
+   "key": "caq_el_doncello"
+ },
+ {
+   "state": "Caquetá",
+   "city": "El Paujil",
+   "key": "caq_el_paujil"
+ },
+ {
+   "state": "Caquetá",
+   "city": "Florencia",
+   "key": "florencia"
+ },
+ {
+   "state": "Caquetá",
+   "city": "La Montañita",
+   "key": "caq_montanita"
+ },
+ {
+   "state": "Caquetá",
+   "city": "Milán",
+   "key": "caq_milan"
+ },
+ {
+   "state": "Caquetá",
+   "city": "Morelia",
+   "key": "caq_morelia"
+ },
+ {
+   "state": "Caquetá",
+   "city": "Puerto Rico",
+   "key": "caq_puerto_rico"
+ },
+ {
+   "state": "Caquetá",
+   "city": "San José Del Fragua",
+   "key": "caq_san_jose_del_fragua"
+ },
+ {
+   "state": "Caquetá",
+   "city": "San Vicente Del Caguán",
+   "key": "caq_san_vicente_del_caguan"
+ },
+ {
+   "state": "Caquetá",
+   "city": "Solano",
+   "key": "caq_solano"
+ },
+ {
+   "state": "Caquetá",
+   "city": "Solita",
+   "key": "caq_solita"
+ },
+ {
+   "state": "Caquetá",
+   "city": "Valparaíso",
+   "key": "caq_valparaiso"
+ },
+ {
+   "state": "Casanare",
+   "city": "Aguazul",
+   "key": "cas_aguazul"
+ },
+ {
+   "state": "Casanare",
+   "city": "Chámeza",
+   "key": "cas_chameza"
+ },
+ {
+   "state": "Casanare",
+   "city": "Hato Corozal",
+   "key": "cas_hato_corozal"
+ },
+ {
+   "state": "Casanare",
+   "city": "La Salina",
+   "key": "cas_la_salina"
+ },
+ {
+   "state": "Casanare",
+   "city": "Maní",
+   "key": "cas_mani"
+ },
+ {
+   "state": "Casanare",
+   "city": "Monterrey",
+   "key": "cas_monterrey"
+ },
+ {
+   "state": "Casanare",
+   "city": "Nunchía",
+   "key": "cas_nunchia"
+ },
+ {
+   "state": "Casanare",
+   "city": "Orocué",
+   "key": "cas_orocue"
+ },
+ {
+   "state": "Casanare",
+   "city": "Paz De Ariporo",
+   "key": "cas_paz_de_ariporo"
+ },
+ {
+   "state": "Casanare",
+   "city": "Pore",
+   "key": "cas_pore"
+ },
+ {
+   "state": "Casanare",
+   "city": "Recetor",
+   "key": "cas_recetor"
+ },
+ {
+   "state": "Casanare",
+   "city": "Sabanalarga",
+   "key": "cas_sabanalarga"
+ },
+ {
+   "state": "Casanare",
+   "city": "Sácama",
+   "key": "cas_sacama"
+ },
+ {
+   "state": "Casanare",
+   "city": "San Luis De Palenque",
+   "key": "cas_san_luis_de_palenque"
+ },
+ {
+   "state": "Casanare",
+   "city": "Támara",
+   "key": "cas_tamara"
+ },
+ {
+   "state": "Casanare",
+   "city": "Tauramena",
+   "key": "cas_tauramena"
+ },
+ {
+   "state": "Casanare",
+   "city": "Trinidad",
+   "key": "cas_trinidad"
+ },
+ {
+   "state": "Casanare",
+   "city": "Villanueva",
+   "key": "cas_villanueva"
+ },
+ {
+   "state": "Casanare",
+   "city": "Yopal",
+   "key": "yopal"
+ },
+ {
+   "state": "Cauca",
+   "city": "Almaguer",
+   "key": "cau_almaguer"
+ },
+ {
+   "state": "Cauca",
+   "city": "Argelia",
+   "key": "cau_argelia"
+ },
+ {
+   "state": "Cauca",
+   "city": "Balboa",
+   "key": "cau_balboa"
+ },
+ {
+   "state": "Cauca",
+   "city": "Bolívar",
+   "key": "cau_bolivar"
+ },
+ {
+   "state": "Cauca",
+   "city": "Buenos Aires",
+   "key": "cau_buenos_aires"
+ },
+ {
+   "state": "Cauca",
+   "city": "Cajibío",
+   "key": "cau_cajibio"
+ },
+ {
+   "state": "Cauca",
+   "city": "Caldono",
+   "key": "cau_caldono"
+ },
+ {
+   "state": "Cauca",
+   "city": "Caloto",
+   "key": "cau_caloto"
+ },
+ {
+   "state": "Cauca",
+   "city": "Corinto",
+   "key": "cau_corinto"
+ },
+ {
+   "state": "Cauca",
+   "city": "El Tambo",
+   "key": "cau_el_tambo"
+ },
+ {
+   "state": "Cauca",
+   "city": "Florencia",
+   "key": "cau_florencia"
+ },
+ {
+   "state": "Cauca",
+   "city": "Guachené",
+   "key": "cau_guachene"
+ },
+ {
+   "state": "Cauca",
+   "city": "Guapi",
+   "key": "cau_guapi"
+ },
+ {
+   "state": "Cauca",
+   "city": "Inzá",
+   "key": "cau_inza"
+ },
+ {
+   "state": "Cauca",
+   "city": "Jambaló",
+   "key": "cau_jambalo"
+ },
+ {
+   "state": "Cauca",
+   "city": "La Sierra",
+   "key": "cau_la_sierra"
+ },
+ {
+   "state": "Cauca",
+   "city": "La Vega",
+   "key": "cau_la_vega"
+ },
+ {
+   "state": "Cauca",
+   "city": "López de Micay",
+   "key": "cau_lopez"
+ },
+ {
+   "state": "Cauca",
+   "city": "Mercaderes",
+   "key": "cau_mercaderes"
+ },
+ {
+   "state": "Cauca",
+   "city": "Miranda",
+   "key": "cau_miranda"
+ },
+ {
+   "state": "Cauca",
+   "city": "Morales",
+   "key": "cau_morales"
+ },
+ {
+   "state": "Cauca",
+   "city": "Padilla",
+   "key": "cau_padilla"
+ },
+ {
+   "state": "Cauca",
+   "city": "Páez",
+   "key": "cau_paez"
+ },
+ {
+   "state": "Cauca",
+   "city": "Patía",
+   "key": "cau_patia"
+ },
+ {
+   "state": "Cauca",
+   "city": "Piamonte",
+   "key": "cau_piamonte"
+ },
+ {
+   "state": "Cauca",
+   "city": "Piendamó",
+   "key": "cau_piendamo"
+ },
+ {
+   "state": "Cauca",
+   "city": "Popayán",
+   "key": "popayan"
+ },
+ {
+   "state": "Cauca",
+   "city": "Puerto Tejada",
+   "key": "cau_puerto_tejada"
+ },
+ {
+   "state": "Cauca",
+   "city": "Puracé",
+   "key": "cau_purace"
+ },
+ {
+   "state": "Cauca",
+   "city": "Rosas",
+   "key": "cau_rosas"
+ },
+ {
+   "state": "Cauca",
+   "city": "San Sebastián",
+   "key": "cau_san_sebastian"
+ },
+ {
+   "state": "Cauca",
+   "city": "Santa Rosa",
+   "key": "cau_santa_rosa"
+ },
+ {
+   "state": "Cauca",
+   "city": "Santander De Quilichao",
+   "key": "cau_santander_de_quilichao"
+ },
+ {
+   "state": "Cauca",
+   "city": "Silvia",
+   "key": "cau_silvia"
+ },
+ {
+   "state": "Cauca",
+   "city": "Sotará",
+   "key": "cau_sotara"
+ },
+ {
+   "state": "Cauca",
+   "city": "Suárez",
+   "key": "cau_suarez"
+ },
+ {
+   "state": "Cauca",
+   "city": "Sucre",
+   "key": "cau_sucre"
+ },
+ {
+   "state": "Cauca",
+   "city": "Timbío",
+   "key": "cau_timbio"
+ },
+ {
+   "state": "Cauca",
+   "city": "Timbiquí",
+   "key": "cau_timbiqui"
+ },
+ {
+   "state": "Cauca",
+   "city": "Toribío",
+   "key": "cau_toribio"
+ },
+ {
+   "state": "Cauca",
+   "city": "Totoró",
+   "key": "cau_totoro"
+ },
+ {
+   "state": "Cauca",
+   "city": "Villa Rica",
+   "key": "cau_villa_rica"
+ },
+ {
+   "state": "Cesar",
+   "city": "Aguachica",
+   "key": "ces_aguachica"
+ },
+ {
+   "state": "Cesar",
+   "city": "Agustín Codazzi",
+   "key": "ces_agustin_codazzi"
+ },
+ {
+   "state": "Cesar",
+   "city": "Astrea",
+   "key": "ces_astrea"
+ },
+ {
+   "state": "Cesar",
+   "city": "Becerril",
+   "key": "ces_becerril"
+ },
+ {
+   "state": "Cesar",
+   "city": "Bosconia",
+   "key": "ces_bosconia"
+ },
+ {
+   "state": "Cesar",
+   "city": "Chimichagua",
+   "key": "ces_chimichagua"
+ },
+ {
+   "state": "Cesar",
+   "city": "Chiriguaná",
+   "key": "ces_chiriguana"
+ },
+ {
+   "state": "Cesar",
+   "city": "Curumaní",
+   "key": "ces_curumani"
+ },
+ {
+   "state": "Cesar",
+   "city": "El Copey",
+   "key": "ces_el_copey"
+ },
+ {
+   "state": "Cesar",
+   "city": "El Paso",
+   "key": "ces_el_paso"
+ },
+ {
+   "state": "Cesar",
+   "city": "Gamarra",
+   "key": "ces_gamarra"
+ },
+ {
+   "state": "Cesar",
+   "city": "González",
+   "key": "ces_gonzalez"
+ },
+ {
+   "state": "Cesar",
+   "city": "La Gloria",
+   "key": "ces_la_gloria"
+ },
+ {
+   "state": "Cesar",
+   "city": "La Jagua De Ibirico",
+   "key": "ces_la_jagua_de_ibirico"
+ },
+ {
+   "state": "Cesar",
+   "city": "La Paz",
+   "key": "ces_la_paz"
+ },
+ {
+   "state": "Cesar",
+   "city": "Manaure Balcón Del Cesar",
+   "key": "ces_manaure_balcon_del_cesar"
+ },
+ {
+   "state": "Cesar",
+   "city": "Pailitas",
+   "key": "ces_pailitas"
+ },
+ {
+   "state": "Cesar",
+   "city": "Pelaya",
+   "key": "ces_pelaya"
+ },
+ {
+   "state": "Cesar",
+   "city": "Pueblo Bello",
+   "key": "ces_pueblo_bello"
+ },
+ {
+   "state": "Cesar",
+   "city": "Río De Oro",
+   "key": "ces_rio_de_oro"
+ },
+ {
+   "state": "Cesar",
+   "city": "San Alberto",
+   "key": "ces_san_alberto"
+ },
+ {
+   "state": "Cesar",
+   "city": "San Diego",
+   "key": "ces_san_diego"
+ },
+ {
+   "state": "Cesar",
+   "city": "San Martín",
+   "key": "ces_san_martin"
+ },
+ {
+   "state": "Cesar",
+   "city": "Tamalameque",
+   "key": "ces_tamalameque"
+ },
+ {
+   "state": "Cesar",
+   "city": "Valledupar",
+   "key": "valledupar"
+ },
+ {
+   "state": "Chocó",
+   "city": "Acandí",
+   "key": "cho_acandi"
+ },
+ {
+   "state": "Chocó",
+   "city": "Alto Baudó",
+   "key": "cho_alto_baudo"
+ },
+ {
+   "state": "Chocó",
+   "city": "Atrato",
+   "key": "cho_atrato"
+ },
+ {
+   "state": "Chocó",
+   "city": "Bagadó",
+   "key": "cho_bagado"
+ },
+ {
+   "state": "Chocó",
+   "city": "Bahía Solano",
+   "key": "cho_bahia_solano"
+ },
+ {
+   "state": "Chocó",
+   "city": "Bajo Baudó",
+   "key": "cho_bajo_baudo"
+ },
+ {
+   "state": "Chocó",
+   "city": "Bojayá",
+   "key": "cho_bojaya"
+ },
+ {
+   "state": "Chocó",
+   "city": "Carmen Del Darién",
+   "key": "cho_carmen_del_darien"
+ },
+ {
+   "state": "Chocó",
+   "city": "Certegui",
+   "key": "cho_certegui"
+ },
+ {
+   "state": "Chocó",
+   "city": "Condoto",
+   "key": "cho_condoto"
+ },
+ {
+   "state": "Chocó",
+   "city": "El Cantón Del San Pablo",
+   "key": "cho_el_canton_del_san_pablo"
+ },
+ {
+   "state": "Chocó",
+   "city": "El Carmen de Atrato",
+   "key": "cho_el_carmen"
+ },
+ {
+   "state": "Chocó",
+   "city": "El Litoral Del San Juan",
+   "key": "cho_el_litoral_del_san_juan"
+ },
+ {
+   "state": "Chocó",
+   "city": "Istmina",
+   "key": "cho_istmina"
+ },
+ {
+   "state": "Chocó",
+   "city": "Juradó",
+   "key": "cho_jurado"
+ },
+ {
+   "state": "Chocó",
+   "city": "Lloró",
+   "key": "cho_lloro"
+ },
+ {
+   "state": "Chocó",
+   "city": "Medio Atrato",
+   "key": "cho_medio_atrato"
+ },
+ {
+   "state": "Chocó",
+   "city": "Medio Baudó",
+   "key": "cho_medio_baudo"
+ },
+ {
+   "state": "Chocó",
+   "city": "Medio San Juan",
+   "key": "cho_medio_san_juan"
+ },
+ {
+   "state": "Chocó",
+   "city": "Nóvita",
+   "key": "cho_novita"
+ },
+ {
+   "state": "Chocó",
+   "city": "Nuquí",
+   "key": "cho_nuqui"
+ },
+ {
+   "state": "Chocó",
+   "city": "Quibdó",
+   "key": "quibdo"
+ },
+ {
+   "state": "Chocó",
+   "city": "Río Iró",
+   "key": "cho_rio_iro"
+ },
+ {
+   "state": "Chocó",
+   "city": "Río Quito",
+   "key": "cho_rio_quito"
+ },
+ {
+   "state": "Chocó",
+   "city": "Riosucio",
+   "key": "cho_riosucio"
+ },
+ {
+   "state": "Chocó",
+   "city": "San José Del Palmar",
+   "key": "cho_san_jose_del_palmar"
+ },
+ {
+   "state": "Chocó",
+   "city": "Sipí",
+   "key": "cho_sipi"
+ },
+ {
+   "state": "Chocó",
+   "city": "Tadó",
+   "key": "cho_tado"
+ },
+ {
+   "state": "Chocó",
+   "city": "Unguía",
+   "key": "cho_unguia"
+ },
+ {
+   "state": "Chocó",
+   "city": "Unión Panamericana",
+   "key": "cho_union_panamericana"
+ },
+ {
+   "state": "Córdoba",
+   "city": "Ayapel",
+   "key": "cor_ayapel"
+ },
+ {
+   "state": "Córdoba",
+   "city": "Buenavista",
+   "key": "cor_buenavista"
+ },
+ {
+   "state": "Córdoba",
+   "city": "Canalete",
+   "key": "cor_canalete"
+ },
+ {
+   "state": "Córdoba",
+   "city": "Cereté",
+   "key": "cor_cerete"
+ },
+ {
+   "state": "Córdoba",
+   "city": "Chimá",
+   "key": "cor_chima"
+ },
+ {
+   "state": "Córdoba",
+   "city": "Chinú",
+   "key": "cor_chinu"
+ },
+ {
+   "state": "Córdoba",
+   "city": "Ciénaga De Oro",
+   "key": "cor_cienaga_de_oro"
+ },
+ {
+   "state": "Córdoba",
+   "city": "Cotorra",
+   "key": "cor_cotorra"
+ },
+ {
+   "state": "Córdoba",
+   "city": "La Apartada",
+   "key": "cor_la_apartada"
+ },
+ {
+   "state": "Córdoba",
+   "city": "Lorica",
+   "key": "cor_lorica"
+ },
+ {
+   "state": "Córdoba",
+   "city": "Los Córdobas",
+   "key": "cor_los_cordobas"
+ },
+ {
+   "state": "Córdoba",
+   "city": "Momil",
+   "key": "cor_momil"
+ },
+ {
+   "state": "Córdoba",
+   "city": "Montelíbano",
+   "key": "cor_montelibano"
+ },
+ {
+   "state": "Córdoba",
+   "city": "Montería",
+   "key": "monteria"
+ },
+ {
+   "state": "Córdoba",
+   "city": "Moñitos",
+   "key": "cor_monitos"
+ },
+ {
+   "state": "Córdoba",
+   "city": "Planeta Rica",
+   "key": "cor_planeta_rica"
+ },
+ {
+   "state": "Córdoba",
+   "city": "Pueblo Nuevo",
+   "key": "cor_pueblo_nuevo"
+ },
+ {
+   "state": "Córdoba",
+   "city": "Puerto Escondido",
+   "key": "cor_puerto_escondido"
+ },
+ {
+   "state": "Córdoba",
+   "city": "Puerto Libertador",
+   "key": "cor_puerto_libertador"
+ },
+ {
+   "state": "Córdoba",
+   "city": "Purísima",
+   "key": "cor_purisima"
+ },
+ {
+   "state": "Córdoba",
+   "city": "Sahagún",
+   "key": "cor_sahagun"
+ },
+ {
+   "state": "Córdoba",
+   "city": "San Andrés De Sotavento",
+   "key": "cor_san_andres_de_sotavento"
+ },
+ {
+   "state": "Córdoba",
+   "city": "San Antero",
+   "key": "cor_san_antero"
+ },
+ {
+   "state": "Córdoba",
+   "city": "San Bernardo Del Viento",
+   "key": "cor_san_bernardo_del_viento"
+ },
+ {
+   "state": "Córdoba",
+   "city": "San Carlos",
+   "key": "cor_san_carlos"
+ },
+ {
+   "state": "Córdoba",
+   "city": "San José De Uré",
+   "key": "cor_san_jose_de_ure"
+ },
+ {
+   "state": "Córdoba",
+   "city": "San Pelayo",
+   "key": "cor_san_pelayo"
+ },
+ {
+   "state": "Córdoba",
+   "city": "Tierralta",
+   "key": "cor_tierralta"
+ },
+ {
+   "state": "Córdoba",
+   "city": "Tuchín",
+   "key": "cor_tuchin"
+ },
+ {
+   "state": "Córdoba",
+   "city": "Valencia",
+   "key": "cor_valencia"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Agua De Dios",
+   "key": "cun_agua_de_dios"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Albán",
+   "key": "cun_alban"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Anapoima",
+   "key": "cun_anapoima"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Anolaima",
+   "key": "cun_anolaima"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Apulo",
+   "key": "cun_apulo"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Arbeláez",
+   "key": "cun_arbelaez"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Beltrán",
+   "key": "cun_beltran"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Bituima",
+   "key": "cun_bituima"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Bojacá",
+   "key": "cun_bojaca"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Cabrera",
+   "key": "cun_cabrera"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Cachipay",
+   "key": "cun_cachipay"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Cajicá",
+   "key": "cun_cajica"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Caparrapí",
+   "key": "cun_caparrapi"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Cáqueza",
+   "key": "cun_caqueza"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Carmen De Carupa",
+   "key": "cun_carmen_de_carupa"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Chaguaní",
+   "key": "cun_chaguani"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Chía",
+   "key": "chia"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Chipaque",
+   "key": "cun_chipaque"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Choachí",
+   "key": "cun_choachi"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Chocontá",
+   "key": "cun_choconta"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Cogua",
+   "key": "cun_cogua"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Cota",
+   "key": "cota"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Cucunubá",
+   "key": "cun_cucunuba"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "El Colegio",
+   "key": "cun_el_colegio"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "El Peñón",
+   "key": "cun_el_penon"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "El Rosal",
+   "key": "cun_el_rosal"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Facatativá",
+   "key": "cun_facatativa"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Fómeque",
+   "key": "cun_fomeque"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Fosca",
+   "key": "cun_fosca"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Funza",
+   "key": "funza"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Fúquene",
+   "key": "cun_fuquene"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Fusagasugá",
+   "key": "cun_fusagasuga"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Gachalá",
+   "key": "cun_gachala"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Gachancipá",
+   "key": "cun_gachancipa"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Gachetá",
+   "key": "cun_gacheta"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Gama",
+   "key": "cun_gama"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Girardot",
+   "key": "cun_girardot"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Granada",
+   "key": "cun_granada"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Guachetá",
+   "key": "cun_guacheta"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Guaduas",
+   "key": "cun_guaduas"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Guasca",
+   "key": "cun_guasca"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Guataquí",
+   "key": "cun_guataqui"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Guatavita",
+   "key": "cun_guatavita"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Guayabal De Síquima",
+   "key": "cun_guayabal_de_siquima"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Guayabetal",
+   "key": "cun_guayabetal"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Gutiérrez",
+   "key": "cun_gutierrez"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Jerusalén",
+   "key": "cun_jerusalen"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Junín",
+   "key": "cun_junin"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Jurisdicción De Ubalá",
+   "key": "cun_jurisdiccion_de_ubala"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "La Calera",
+   "key": "cun_la_calera"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "La Mesa",
+   "key": "cun_la_mesa"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "La Palma",
+   "key": "cun_la_palma"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "La Peña",
+   "key": "cun_la_pena"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "La Vega",
+   "key": "cun_la_vega"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Lenguazaque",
+   "key": "cun_lenguazaque"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Machetá",
+   "key": "cun_macheta"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Madrid",
+   "key": "cun_madrid"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Manta",
+   "key": "cun_manta"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Medina",
+   "key": "cun_medina"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Mosquera",
+   "key": "cun_mosquera"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Nariño",
+   "key": "cun_narino"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Nemocón",
+   "key": "cun_nemocon"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Nilo",
+   "key": "cun_nilo"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Nimaima",
+   "key": "cun_nimaima"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Nocaima",
+   "key": "cun_nocaima"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Pacho",
+   "key": "cun_pacho"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Paime",
+   "key": "cun_paime"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Pandi",
+   "key": "cun_pandi"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Paratebueno",
+   "key": "cun_paratebueno"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Pasca",
+   "key": "cun_pasca"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Puerto Salgar",
+   "key": "cun_puerto_salgar"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Pulí",
+   "key": "cun_puli"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Quebradanegra",
+   "key": "cun_quebradanegra"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Quetame",
+   "key": "cun_quetame"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Quipile",
+   "key": "cun_quipile"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Ricaurte",
+   "key": "cun_ricaurte"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "San Antonio Del Tequendama",
+   "key": "cun_san_antonio_del_tequendama"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "San Bernardo",
+   "key": "cun_san_bernardo"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "San Cayetano",
+   "key": "cun_san_cayetano"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "San Francisco",
+   "key": "cun_san_francisco"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "San Juan De Rioseco",
+   "key": "cun_san_juan_de_rioseco"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Sasaima",
+   "key": "cun_sasaima"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Sesquilé",
+   "key": "cun_sesquile"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Sibaté",
+   "key": "cun_sibate"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Silvania",
+   "key": "cun_silvania"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Simijaca",
+   "key": "cun_simijaca"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Soacha",
+   "key": "cun_soacha"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Sopó",
+   "key": "cun_sopo"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Subachoque",
+   "key": "cun_subachoque"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Suesca",
+   "key": "cun_suesca"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Supatá",
+   "key": "cun_supata"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Susa",
+   "key": "cun_susa"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Sutatausa",
+   "key": "cun_sutatausa"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Tabio",
+   "key": "cun_tabio"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Tausa",
+   "key": "cun_tausa"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Tena",
+   "key": "cun_tena"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Tenjo",
+   "key": "cun_tenjo"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Tibacuy",
+   "key": "cun_tibacuy"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Tibirita",
+   "key": "cun_tibirita"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Tocaima",
+   "key": "cun_tocaima"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Tocancipá",
+   "key": "cun_tocancipa"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Topaipí",
+   "key": "cun_topaipi"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Ubalá",
+   "key": "cun_ubala"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Ubaque",
+   "key": "cun_ubaque"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Ubaté",
+   "key": "cun_ubate"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Une",
+   "key": "cun_une"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Útica",
+   "key": "cun_utica"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Venecia",
+   "key": "cun_venecia"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Vergara",
+   "key": "cun_vergara"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Vianí",
+   "key": "cun_viani"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Villagómez",
+   "key": "cun_villagomez"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Villapinzón",
+   "key": "cun_villapinzon"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Villeta",
+   "key": "cun_villeta"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Viotá",
+   "key": "cun_viota"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Yacopí",
+   "key": "cun_yacopi"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Zipacón",
+   "key": "cun_zipacon"
+ },
+ {
+   "state": "Cundinamarca",
+   "city": "Zipaquirá",
+   "key": "zipaquira"
+ },
+ {
+   "state": "Guainía",
+   "city": "Barranco Minas",
+   "key": "gua_barranco_mina"
+ },
+ {
+   "state": "Guainía",
+   "city": "Cacahual",
+   "key": "gua_cacahual"
+ },
+ {
+   "state": "Guainía",
+   "city": "Inirida",
+   "key": "inirida"
+ },
+ {
+   "state": "Guainía",
+   "city": "La Guadalupe",
+   "key": "gua_la_guadalupe"
+ },
+ {
+   "state": "Guainía",
+   "city": "Mapiripana",
+   "key": "gua_mapiripana"
+ },
+ {
+   "state": "Guainía",
+   "city": "Morichal",
+   "key": "gua_morichal"
+ },
+ {
+   "state": "Guainía",
+   "city": "Paná Paná",
+   "key": "gua_pana_pana"
+ },
+ {
+   "state": "Guainía",
+   "city": "Puerto Colombia",
+   "key": "gua_puerto_colombia"
+ },
+ {
+   "state": "Guainía",
+   "city": "San Felipe",
+   "key": "gua_san_felipe"
+ },
+ {
+   "state": "Guaviare",
+   "city": "Calamar",
+   "key": "guv_calamar"
+ },
+ {
+   "state": "Guaviare",
+   "city": "El Retorno",
+   "key": "guv_el_retorno"
+ },
+ {
+   "state": "Guaviare",
+   "city": "Miraflores",
+   "key": "guv_miraflores"
+ },
+ {
+   "state": "Guaviare",
+   "city": "San José Del Guaviare",
+   "key": "san_jose_del_guaviare"
+ },
+ {
+   "state": "Huila",
+   "city": "Acevedo",
+   "key": "hui_acevedo"
+ },
+ {
+   "state": "Huila",
+   "city": "Agrado",
+   "key": "hui_agrado"
+ },
+ {
+   "state": "Huila",
+   "city": "Aipe",
+   "key": "hui_aipe"
+ },
+ {
+   "state": "Huila",
+   "city": "Algeciras",
+   "key": "hui_algeciras"
+ },
+ {
+   "state": "Huila",
+   "city": "Altamira",
+   "key": "hui_altamira"
+ },
+ {
+   "state": "Huila",
+   "city": "Baraya",
+   "key": "hui_baraya"
+ },
+ {
+   "state": "Huila",
+   "city": "Campoalegre",
+   "key": "hui_campoalegre"
+ },
+ {
+   "state": "Huila",
+   "city": "Colombia",
+   "key": "hui_colombia"
+ },
+ {
+   "state": "Huila",
+   "city": "Elías",
+   "key": "hui_elias"
+ },
+ {
+   "state": "Huila",
+   "city": "Garzón",
+   "key": "hui_garzon"
+ },
+ {
+   "state": "Huila",
+   "city": "Gigante",
+   "key": "hui_gigante"
+ },
+ {
+   "state": "Huila",
+   "city": "Guadalupe",
+   "key": "hui_guadalupe"
+ },
+ {
+   "state": "Huila",
+   "city": "Hobo",
+   "key": "hui_hobo"
+ },
+ {
+   "state": "Huila",
+   "city": "Íquira",
+   "key": "hui_iquira"
+ },
+ {
+   "state": "Huila",
+   "city": "Isnos",
+   "key": "hui_isnos"
+ },
+ {
+   "state": "Huila",
+   "city": "La Argentina",
+   "key": "hui_la_argentina"
+ },
+ {
+   "state": "Huila",
+   "city": "La Plata",
+   "key": "hui_la_plata"
+ },
+ {
+   "state": "Huila",
+   "city": "Nátaga",
+   "key": "hui_nataga"
+ },
+ {
+   "state": "Huila",
+   "city": "Neiva",
+   "key": "neiva"
+ },
+ {
+   "state": "Huila",
+   "city": "Oporapa",
+   "key": "hui_oporapa"
+ },
+ {
+   "state": "Huila",
+   "city": "Paicol",
+   "key": "hui_paicol"
+ },
+ {
+   "state": "Huila",
+   "city": "Palermo",
+   "key": "hui_palermo"
+ },
+ {
+   "state": "Huila",
+   "city": "Palestina",
+   "key": "hui_palestina"
+ },
+ {
+   "state": "Huila",
+   "city": "Pital",
+   "key": "hui_pital"
+ },
+ {
+   "state": "Huila",
+   "city": "Pitalito",
+   "key": "hui_pitalito"
+ },
+ {
+   "state": "Huila",
+   "city": "Rivera",
+   "key": "hui_rivera"
+ },
+ {
+   "state": "Huila",
+   "city": "Saladoblanco",
+   "key": "hui_saladoblanco"
+ },
+ {
+   "state": "Huila",
+   "city": "San Agustín",
+   "key": "hui_san_agustin"
+ },
+ {
+   "state": "Huila",
+   "city": "Santa María",
+   "key": "hui_santa_maria"
+ },
+ {
+   "state": "Huila",
+   "city": "Suaza",
+   "key": "hui_suaza"
+ },
+ {
+   "state": "Huila",
+   "city": "Tarqui",
+   "key": "hui_tarqui"
+ },
+ {
+   "state": "Huila",
+   "city": "Tello",
+   "key": "hui_tello"
+ },
+ {
+   "state": "Huila",
+   "city": "Teruel",
+   "key": "hui_teruel"
+ },
+ {
+   "state": "Huila",
+   "city": "Tesalia",
+   "key": "hui_tesalia"
+ },
+ {
+   "state": "Huila",
+   "city": "Timaná",
+   "key": "hui_timana"
+ },
+ {
+   "state": "Huila",
+   "city": "Villavieja",
+   "key": "hui_villavieja"
+ },
+ {
+   "state": "Huila",
+   "city": "Yaguará",
+   "key": "hui_yaguara"
+ },
+ {
+   "state": "La Guajira",
+   "city": "Albania",
+   "key": "lag_albania"
+ },
+ {
+   "state": "La Guajira",
+   "city": "Barrancas",
+   "key": "lag_barrancas"
+ },
+ {
+   "state": "La Guajira",
+   "city": "Dibulla",
+   "key": "lag_dibulla"
+ },
+ {
+   "state": "La Guajira",
+   "city": "Distracción",
+   "key": "lag_distraccion"
+ },
+ {
+   "state": "La Guajira",
+   "city": "El Molino",
+   "key": "lag_el_molino"
+ },
+ {
+   "state": "La Guajira",
+   "city": "Fonseca",
+   "key": "lag_fonseca"
+ },
+ {
+   "state": "La Guajira",
+   "city": "Hato Nuevo",
+   "key": "lag_hato_nuevo"
+ },
+ {
+   "state": "La Guajira",
+   "city": "La Jagua Del Pilar",
+   "key": "lag_la_jagua_del_pilar"
+ },
+ {
+   "state": "La Guajira",
+   "city": "Maicao",
+   "key": "lag_maicao"
+ },
+ {
+   "state": "La Guajira",
+   "city": "Manaure",
+   "key": "lag_manaure"
+ },
+ {
+   "state": "La Guajira",
+   "city": "Riohacha",
+   "key": "riohacha"
+ },
+ {
+   "state": "La Guajira",
+   "city": "San Juan Del Cesar",
+   "key": "lag_san_juan_del_cesar"
+ },
+ {
+   "state": "La Guajira",
+   "city": "Uribia",
+   "key": "lag_uribia"
+ },
+ {
+   "state": "La Guajira",
+   "city": "Urumita",
+   "key": "lag_urumita"
+ },
+ {
+   "state": "La Guajira",
+   "city": "Villanueva",
+   "key": "lag_villanueva"
+ },
+ {
+   "state": "Magdalena",
+   "city": "Algarrobo",
+   "key": "mag_algarrobo"
+ },
+ {
+   "state": "Magdalena",
+   "city": "Aracataca",
+   "key": "mag_aracataca"
+ },
+ {
+   "state": "Magdalena",
+   "city": "Ariguaní",
+   "key": "mag_ariguani"
+ },
+ {
+   "state": "Magdalena",
+   "city": "Bonda - Santa Marta",
+   "key": "sta_marta_bonda"
+ },
+ {
+   "state": "Magdalena",
+   "city": "Cerro De San Antonio",
+   "key": "mag_cerro_de_san_antonio"
+ },
+ {
+   "state": "Magdalena",
+   "city": "Chivolo",
+   "key": "mag_chivolo"
+ },
+ {
+   "state": "Magdalena",
+   "city": "Ciénaga",
+   "key": "mag_cienaga"
+ },
+ {
+   "state": "Magdalena",
+   "city": "Concordia",
+   "key": "mag_concordia"
+ },
+ {
+   "state": "Magdalena",
+   "city": "El Banco",
+   "key": "mag_el_banco"
+ },
+ {
+   "state": "Magdalena",
+   "city": "El Piñón",
+   "key": "mag_el_pinon"
+ },
+ {
+   "state": "Magdalena",
+   "city": "El Retén",
+   "key": "mag_el_reten"
+ },
+ {
+   "state": "Magdalena",
+   "city": "Fundación",
+   "key": "mag_fundacion"
+ },
+ {
+   "state": "Magdalena",
+   "city": "Gaira - Santa Marta",
+   "key": "sta_marta_gaira"
+ },
+ {
+   "state": "Magdalena",
+   "city": "Guamal",
+   "key": "mag_guamal"
+ },
+ {
+   "state": "Magdalena",
+   "city": "Nueva Granada",
+   "key": "mag_nueva_granada"
+ },
+ {
+   "state": "Magdalena",
+   "city": "Pedraza",
+   "key": "mag_pedraza"
+ },
+ {
+   "state": "Magdalena",
+   "city": "Pijiño Del Carmen",
+   "key": "mag_pijino_del_carmen"
+ },
+ {
+   "state": "Magdalena",
+   "city": "Pivijay",
+   "key": "mag_pivijay"
+ },
+ {
+   "state": "Magdalena",
+   "city": "Plato",
+   "key": "mag_plato"
+ },
+ {
+   "state": "Magdalena",
+   "city": "Puebloviejo",
+   "key": "mag_puebloviejo"
+ },
+ {
+   "state": "Magdalena",
+   "city": "Remolino",
+   "key": "mag_remolino"
+ },
+ {
+   "state": "Magdalena",
+   "city": "Sabanas De San Ángel",
+   "key": "mag_san_angel"
+ },
+ {
+   "state": "Magdalena",
+   "city": "Salamina",
+   "key": "mag_salamina"
+ },
+ {
+   "state": "Magdalena",
+   "city": "San Sebastián De Buenavista",
+   "key": "mag_san_sebastian_de_buenavista"
+ },
+ {
+   "state": "Magdalena",
+   "city": "San Zenón",
+   "key": "mag_san_zenon"
+ },
+ {
+   "state": "Magdalena",
+   "city": "Santa Ana",
+   "key": "mag_santa_ana"
+ },
+ {
+   "state": "Magdalena",
+   "city": "Santa Barbara De Pinto",
+   "key": "mag_santa_barbara_de_pinto"
+ },
+ {
+   "state": "Magdalena",
+   "city": "Santa Marta",
+   "key": "sta_marta"
+ },
+ {
+   "state": "Magdalena",
+   "city": "Sitionuevo",
+   "key": "mag_sitionuevo"
+ },
+ {
+   "state": "Magdalena",
+   "city": "Tenerife",
+   "key": "mag_tenerife"
+ },
+ {
+   "state": "Magdalena",
+   "city": "Zapayán",
+   "key": "mag_zapayan"
+ },
+ {
+   "state": "Magdalena",
+   "city": "Zona Bananera",
+   "key": "mag_zona_bananera"
+ },
+ {
+   "state": "Meta",
+   "city": "Acacías",
+   "key": "met_acacias"
+ },
+ {
+   "state": "Meta",
+   "city": "Barranca De Upía",
+   "key": "met_barranca_de_upia"
+ },
+ {
+   "state": "Meta",
+   "city": "Cabuyaro",
+   "key": "met_cabuyaro"
+ },
+ {
+   "state": "Meta",
+   "city": "Castilla La Nueva",
+   "key": "met_castilla_la_nueva"
+ },
+ {
+   "state": "Meta",
+   "city": "Cubarral",
+   "key": "met_cubarral"
+ },
+ {
+   "state": "Meta",
+   "city": "Cumaral",
+   "key": "met_cumaral"
+ },
+ {
+   "state": "Meta",
+   "city": "El Calvario",
+   "key": "met_el_calvario"
+ },
+ {
+   "state": "Meta",
+   "city": "El Castillo",
+   "key": "met_el_castillo"
+ },
+ {
+   "state": "Meta",
+   "city": "El Dorado",
+   "key": "met_el_dorado"
+ },
+ {
+   "state": "Meta",
+   "city": "Fuente De Oro",
+   "key": "met_fuente_de_oro"
+ },
+ {
+   "state": "Meta",
+   "city": "Granada",
+   "key": "met_granada"
+ },
+ {
+   "state": "Meta",
+   "city": "Guamal",
+   "key": "met_guamal"
+ },
+ {
+   "state": "Meta",
+   "city": "La Macarena",
+   "key": "met_la_macarena"
+ },
+ {
+   "state": "Meta",
+   "city": "Lejanías",
+   "key": "met_lejanias"
+ },
+ {
+   "state": "Meta",
+   "city": "Mapiripán",
+   "key": "met_mapiripan"
+ },
+ {
+   "state": "Meta",
+   "city": "Mesetas",
+   "key": "met_mesetas"
+ },
+ {
+   "state": "Meta",
+   "city": "Puerto Concordia",
+   "key": "met_puerto_concordia"
+ },
+ {
+   "state": "Meta",
+   "city": "Puerto Gaitán",
+   "key": "met_puerto_gaitan"
+ },
+ {
+   "state": "Meta",
+   "city": "Puerto Lleras",
+   "key": "met_puerto_lleras"
+ },
+ {
+   "state": "Meta",
+   "city": "Puerto López",
+   "key": "met_puerto_lopez"
+ },
+ {
+   "state": "Meta",
+   "city": "Puerto Rico",
+   "key": "met_puerto_rico"
+ },
+ {
+   "state": "Meta",
+   "city": "Restrepo",
+   "key": "met_restrepo"
+ },
+ {
+   "state": "Meta",
+   "city": "San Carlos De Guaroa",
+   "key": "met_san_carlos_de_guaroa"
+ },
+ {
+   "state": "Meta",
+   "city": "San Juan De Arama",
+   "key": "met_san_juan_de_arama"
+ },
+ {
+   "state": "Meta",
+   "city": "San Juanito",
+   "key": "met_san_juanito"
+ },
+ {
+   "state": "Meta",
+   "city": "San Martín",
+   "key": "met_san_martin"
+ },
+ {
+   "state": "Meta",
+   "city": "Uribe",
+   "key": "met_uribe"
+ },
+ {
+   "state": "Meta",
+   "city": "Villavicencio",
+   "key": "villavicencio"
+ },
+ {
+   "state": "Meta",
+   "city": "Vistahermosa",
+   "key": "met_vistahermosa"
+ },
+ {
+   "state": "Nariño",
+   "city": "Albán",
+   "key": "nar_alban"
+ },
+ {
+   "state": "Nariño",
+   "city": "Aldana",
+   "key": "nar_aldana"
+ },
+ {
+   "state": "Nariño",
+   "city": "Ancuya",
+   "key": "nar_ancuya"
+ },
+ {
+   "state": "Nariño",
+   "city": "Arboleda",
+   "key": "nar_arboleda"
+ },
+ {
+   "state": "Nariño",
+   "city": "Barbacoas",
+   "key": "nar_barbacoas"
+ },
+ {
+   "state": "Nariño",
+   "city": "Belén",
+   "key": "nar_belen"
+ },
+ {
+   "state": "Nariño",
+   "city": "Buesaco",
+   "key": "nar_buesaco"
+ },
+ {
+   "state": "Nariño",
+   "city": "Chachagí",
+   "key": "nar_chachagi"
+ },
+ {
+   "state": "Nariño",
+   "city": "Colón",
+   "key": "nar_colon"
+ },
+ {
+   "state": "Nariño",
+   "city": "Consacá",
+   "key": "nar_consaca"
+ },
+ {
+   "state": "Nariño",
+   "city": "Contadero",
+   "key": "nar_contadero"
+ },
+ {
+   "state": "Nariño",
+   "city": "Córdoba",
+   "key": "nar_cordoba"
+ },
+ {
+   "state": "Nariño",
+   "city": "Cuaspud",
+   "key": "nar_cuaspud"
+ },
+ {
+   "state": "Nariño",
+   "city": "Cumbal",
+   "key": "nar_cumbal"
+ },
+ {
+   "state": "Nariño",
+   "city": "Cumbitara",
+   "key": "nar_cumbitara"
+ },
+ {
+   "state": "Nariño",
+   "city": "El Charco",
+   "key": "nar_el_charco"
+ },
+ {
+   "state": "Nariño",
+   "city": "El Peñol",
+   "key": "nar_el_penol"
+ },
+ {
+   "state": "Nariño",
+   "city": "El Rosario",
+   "key": "nar_el_rosario"
+ },
+ {
+   "state": "Nariño",
+   "city": "El Tablón",
+   "key": "nar_el_tablon"
+ },
+ {
+   "state": "Nariño",
+   "city": "El Tambo",
+   "key": "nar_el_tambo"
+ },
+ {
+   "state": "Nariño",
+   "city": "Francisco Pizarro",
+   "key": "nar_francisco_pizarro"
+ },
+ {
+   "state": "Nariño",
+   "city": "Funes",
+   "key": "nar_funes"
+ },
+ {
+   "state": "Nariño",
+   "city": "Guachucal",
+   "key": "nar_guachucal"
+ },
+ {
+   "state": "Nariño",
+   "city": "Guaitarilla",
+   "key": "nar_guaitarilla"
+ },
+ {
+   "state": "Nariño",
+   "city": "Gualmatán",
+   "key": "nar_gualmatan"
+ },
+ {
+   "state": "Nariño",
+   "city": "Iles",
+   "key": "nar_iles"
+ },
+ {
+   "state": "Nariño",
+   "city": "Imués",
+   "key": "nar_imues"
+ },
+ {
+   "state": "Nariño",
+   "city": "Ipiales",
+   "key": "nar_ipiales"
+ },
+ {
+   "state": "Nariño",
+   "city": "La Cruz",
+   "key": "nar_la_cruz"
+ },
+ {
+   "state": "Nariño",
+   "city": "La Florida",
+   "key": "nar_la_florida"
+ },
+ {
+   "state": "Nariño",
+   "city": "La Llanada",
+   "key": "nar_la_llanada"
+ },
+ {
+   "state": "Nariño",
+   "city": "La Tola",
+   "key": "nar_la_tola"
+ },
+ {
+   "state": "Nariño",
+   "city": "La Unión",
+   "key": "nar_la_union"
+ },
+ {
+   "state": "Nariño",
+   "city": "Leiva",
+   "key": "nar_leiva"
+ },
+ {
+   "state": "Nariño",
+   "city": "Linares",
+   "key": "nar_linares"
+ },
+ {
+   "state": "Nariño",
+   "city": "Los Andes",
+   "key": "nar_los_andes"
+ },
+ {
+   "state": "Nariño",
+   "city": "Magüí",
+   "key": "nar_magui"
+ },
+ {
+   "state": "Nariño",
+   "city": "Mallama",
+   "key": "nar_mallama"
+ },
+ {
+   "state": "Nariño",
+   "city": "Mosquera",
+   "key": "nar_mosquera"
+ },
+ {
+   "state": "Nariño",
+   "city": "Nariño",
+   "key": "nar_narino"
+ },
+ {
+   "state": "Nariño",
+   "city": "Olaya Herrera",
+   "key": "nar_olaya_herrera"
+ },
+ {
+   "state": "Nariño",
+   "city": "Ospina",
+   "key": "nar_ospina"
+ },
+ {
+   "state": "Nariño",
+   "city": "Pasto",
+   "key": "pasto"
+ },
+ {
+   "state": "Nariño",
+   "city": "Policarpa",
+   "key": "nar_policarpa"
+ },
+ {
+   "state": "Nariño",
+   "city": "Potosí",
+   "key": "nar_potosi"
+ },
+ {
+   "state": "Nariño",
+   "city": "Providencia",
+   "key": "nar_providencia"
+ },
+ {
+   "state": "Nariño",
+   "city": "Puerres",
+   "key": "nar_puerres"
+ },
+ {
+   "state": "Nariño",
+   "city": "Pupiales",
+   "key": "nar_pupiales"
+ },
+ {
+   "state": "Nariño",
+   "city": "Ricaurte",
+   "key": "nar_ricaurte"
+ },
+ {
+   "state": "Nariño",
+   "city": "Roberto Payán",
+   "key": "nar_roberto_payan"
+ },
+ {
+   "state": "Nariño",
+   "city": "Samaniego",
+   "key": "nar_samaniego"
+ },
+ {
+   "state": "Nariño",
+   "city": "San Bernardo",
+   "key": "nar_san_bernardo"
+ },
+ {
+   "state": "Nariño",
+   "city": "San Lorenzo",
+   "key": "nar_san_lorenzo"
+ },
+ {
+   "state": "Nariño",
+   "city": "San Pablo",
+   "key": "nar_san_pablo"
+ },
+ {
+   "state": "Nariño",
+   "city": "San Pedro De Cartago",
+   "key": "nar_san_pedro_de_cartago"
+ },
+ {
+   "state": "Nariño",
+   "city": "Sandoná",
+   "key": "nar_sandona"
+ },
+ {
+   "state": "Nariño",
+   "city": "Santa Bárbara",
+   "key": "nar_santa_barbara"
+ },
+ {
+   "state": "Nariño",
+   "city": "Santa Cruz",
+   "key": "nar_santa_cruz"
+ },
+ {
+   "state": "Nariño",
+   "city": "Sapuyes",
+   "key": "nar_sapuyes"
+ },
+ {
+   "state": "Nariño",
+   "city": "Taminango",
+   "key": "nar_taminango"
+ },
+ {
+   "state": "Nariño",
+   "city": "Tangua",
+   "key": "nar_tangua"
+ },
+ {
+   "state": "Nariño",
+   "city": "Tumaco",
+   "key": "nar_tumaco"
+ },
+ {
+   "state": "Nariño",
+   "city": "Túquerres",
+   "key": "nar_tuquerres"
+ },
+ {
+   "state": "Nariño",
+   "city": "Yacuanquer",
+   "key": "nar_yacuanquer"
+ },
+ {
+   "state": "Norte De Santander",
+   "city": "Ábrego",
+   "key": "nsa_abrego"
+ },
+ {
+   "state": "Norte De Santander",
+   "city": "Arboledas",
+   "key": "nsa_arboledas"
+ },
+ {
+   "state": "Norte De Santander",
+   "city": "Bochalema",
+   "key": "nsa_bochalema"
+ },
+ {
+   "state": "Norte De Santander",
+   "city": "Bucarasica",
+   "key": "nsa_bucarasica"
+ },
+ {
+   "state": "Norte De Santander",
+   "city": "Cáchira",
+   "key": "nsa_cachira"
+ },
+ {
+   "state": "Norte De Santander",
+   "city": "Cácota",
+   "key": "nsa_cacota"
+ },
+ {
+   "state": "Norte De Santander",
+   "city": "Chinácota",
+   "key": "nsa_chinacota"
+ },
+ {
+   "state": "Norte De Santander",
+   "city": "Chitagá",
+   "key": "nsa_chitaga"
+ },
+ {
+   "state": "Norte De Santander",
+   "city": "Convención",
+   "key": "nsa_convencion"
+ },
+ {
+   "state": "Norte De Santander",
+   "city": "Cucutilla",
+   "key": "nsa_cucutilla"
+ },
+ {
+   "state": "Norte De Santander",
+   "city": "Cucuta",
+   "key": "cucuta"
+ },
+ {
+   "state": "Norte De Santander",
+   "city": "Durania",
+   "key": "nsa_durania"
+ },
+ {
+   "state": "Norte De Santander",
+   "city": "El Carmen",
+   "key": "nsa_el_carmen"
+ },
+ {
+   "state": "Norte De Santander",
+   "city": "El Tarra",
+   "key": "nsa_el_tarra"
+ },
+ {
+   "state": "Norte De Santander",
+   "city": "El Zulia",
+   "key": "nsa_el_zulia"
+ },
+ {
+   "state": "Norte De Santander",
+   "city": "Gramalote",
+   "key": "nsa_gramalote"
+ },
+ {
+   "state": "Norte De Santander",
+   "city": "Hacarí",
+   "key": "nsa_hacari"
+ },
+ {
+   "state": "Norte De Santander",
+   "city": "Herrán",
+   "key": "nsa_herran"
+ },
+ {
+   "state": "Norte De Santander",
+   "city": "Jurisdicción De Ocaña",
+   "key": "nsa_jurisdiccion_de_ocana"
+ },
+ {
+   "state": "Norte De Santander",
+   "city": "La Esperanza",
+   "key": "nsa_la_esperanza"
+ },
+ {
+   "state": "Norte De Santander",
+   "city": "La Playa",
+   "key": "nsa_la_playa"
+ },
+ {
+   "state": "Norte De Santander",
+   "city": "Labateca",
+   "key": "nsa_labateca"
+ },
+ {
+   "state": "Norte De Santander",
+   "city": "Los Patios",
+   "key": "nsa_los_patios"
+ },
+ {
+   "state": "Norte De Santander",
+   "city": "Lourdes",
+   "key": "nsa_lourdes"
+ },
+ {
+   "state": "Norte De Santander",
+   "city": "Mutiscua",
+   "key": "nsa_mutiscua"
+ },
+ {
+   "state": "Norte De Santander",
+   "city": "Ocaña",
+   "key": "nsa_ocana"
+ },
+ {
+   "state": "Norte De Santander",
+   "city": "Pamplona",
+   "key": "nsa_pamplona"
+ },
+ {
+   "state": "Norte De Santander",
+   "city": "Pamplonita",
+   "key": "nsa_pamplonita"
+ },
+ {
+   "state": "Norte De Santander",
+   "city": "Puerto Santander",
+   "key": "nsa_puerto_santander"
+ },
+ {
+   "state": "Norte De Santander",
+   "city": "Ragonvalia",
+   "key": "nsa_ragonvalia"
+ },
+ {
+   "state": "Norte De Santander",
+   "city": "Salazar",
+   "key": "nsa_salazar"
+ },
+ {
+   "state": "Norte De Santander",
+   "city": "San Calixto",
+   "key": "nsa_san_calixto"
+ },
+ {
+   "state": "Norte De Santander",
+   "city": "San Cayetano",
+   "key": "nsa_san_cayetano"
+ },
+ {
+   "state": "Norte De Santander",
+   "city": "Santiago",
+   "key": "nsa_santiago"
+ },
+ {
+   "state": "Norte De Santander",
+   "city": "Sardinata",
+   "key": "nsa_sardinata"
+ },
+ {
+   "state": "Norte De Santander",
+   "city": "Silos",
+   "key": "nsa_silos"
+ },
+ {
+   "state": "Norte De Santander",
+   "city": "Teorama",
+   "key": "nsa_teorama"
+ },
+ {
+   "state": "Norte De Santander",
+   "city": "Tibú",
+   "key": "nsa_tibu"
+ },
+ {
+   "state": "Norte De Santander",
+   "city": "Toledo",
+   "key": "nsa_toledo"
+ },
+ {
+   "state": "Norte De Santander",
+   "city": "Villa Caro",
+   "key": "nsa_villa_caro"
+ },
+ {
+   "state": "Norte De Santander",
+   "city": "Villa Del Rosario",
+   "key": "nsa_villa_del_rosario"
+ },
+ {
+   "state": "Putumayo",
+   "city": "Colón",
+   "key": "put_colon"
+ },
+ {
+   "state": "Putumayo",
+   "city": "Mocoa",
+   "key": "mocoa"
+ },
+ {
+   "state": "Putumayo",
+   "city": "Orito",
+   "key": "put_orito"
+ },
+ {
+   "state": "Putumayo",
+   "city": "Puerto Asís",
+   "key": "put_puerto_asis"
+ },
+ {
+   "state": "Putumayo",
+   "city": "Puerto Caicedo",
+   "key": "put_puerto_caicedo"
+ },
+ {
+   "state": "Putumayo",
+   "city": "Puerto Guzmán",
+   "key": "put_puerto_guzman"
+ },
+ {
+   "state": "Putumayo",
+   "city": "Puerto Leguízamo",
+   "key": "put_puerto_leguizamo"
+ },
+ {
+   "state": "Putumayo",
+   "city": "San Francisco",
+   "key": "put_san_francisco"
+ },
+ {
+   "state": "Putumayo",
+   "city": "San Miguel",
+   "key": "put_san_miguel"
+ },
+ {
+   "state": "Putumayo",
+   "city": "Santiago",
+   "key": "put_santiago"
+ },
+ {
+   "state": "Putumayo",
+   "city": "Sibundoy",
+   "key": "put_sibundoy"
+ },
+ {
+   "state": "Putumayo",
+   "city": "Valle Del Guamuez",
+   "key": "put_valle_del_guamuez"
+ },
+ {
+   "state": "Putumayo",
+   "city": "Villagarzón",
+   "key": "put_villagarzon"
+ },
+ {
+   "state": "Quindío",
+   "city": "Armenia",
+   "key": "armenia"
+ },
+ {
+   "state": "Quindío",
+   "city": "Buenavista",
+   "key": "qui_buenavista"
+ },
+ {
+   "state": "Quindío",
+   "city": "Calarcá",
+   "key": "qui_calarca"
+ },
+ {
+   "state": "Quindío",
+   "city": "Circasia",
+   "key": "qui_circasia"
+ },
+ {
+   "state": "Quindío",
+   "city": "Córdoba",
+   "key": "qui_cordoba"
+ },
+ {
+   "state": "Quindío",
+   "city": "Filandia",
+   "key": "qui_filandia"
+ },
+ {
+   "state": "Quindío",
+   "city": "Génova",
+   "key": "qui_genova"
+ },
+ {
+   "state": "Quindío",
+   "city": "La Tebaida",
+   "key": "qui_la_tebaida"
+ },
+ {
+   "state": "Quindío",
+   "city": "Montenegro",
+   "key": "qui_montenegro"
+ },
+ {
+   "state": "Quindío",
+   "city": "Pijao",
+   "key": "qui_pijao"
+ },
+ {
+   "state": "Quindío",
+   "city": "Quimbaya",
+   "key": "qui_quimbaya"
+ },
+ {
+   "state": "Quindío",
+   "city": "Salento",
+   "key": "qui_salento"
+ },
+ {
+   "state": "Risaralda",
+   "city": "Apía",
+   "key": "ris_apia"
+ },
+ {
+   "state": "Risaralda",
+   "city": "Balboa",
+   "key": "ris_balboa"
+ },
+ {
+   "state": "Risaralda",
+   "city": "Belén De Umbría",
+   "key": "ris_belen_de_umbria"
+ },
+ {
+   "state": "Risaralda",
+   "city": "Dosquebradas",
+   "key": "ris_dosquebradas"
+ },
+ {
+   "state": "Risaralda",
+   "city": "Guática",
+   "key": "ris_guatica"
+ },
+ {
+   "state": "Risaralda",
+   "city": "La Celia",
+   "key": "ris_la_celia"
+ },
+ {
+   "state": "Risaralda",
+   "city": "La Virginia",
+   "key": "ris_la_virginia"
+ },
+ {
+   "state": "Risaralda",
+   "city": "Marsella",
+   "key": "ris_marsella"
+ },
+ {
+   "state": "Risaralda",
+   "city": "Mistrató",
+   "key": "ris_mistrato"
+ },
+ {
+   "state": "Risaralda",
+   "city": "Pereira",
+   "key": "pereira"
+ },
+ {
+   "state": "Risaralda",
+   "city": "Pueblo Rico",
+   "key": "ris_pueblo_rico"
+ },
+ {
+   "state": "Risaralda",
+   "city": "Quinchía",
+   "key": "ris_quinchia"
+ },
+ {
+   "state": "Risaralda",
+   "city": "Santa Rosa De Cabal",
+   "key": "ris_santa_rosa_de_cabal"
+ },
+ {
+   "state": "Risaralda",
+   "city": "Santuario",
+   "key": "ris_santuario"
+ },
+ {
+   "state": "San Andrés, Providencia y Santa Catalina",
+   "city": "Providencia Y Santa Catalina (Santa Isabel)",
+   "key": "sap_providencia"
+ },
+ {
+   "state": "San Andrés, Providencia y Santa Catalina",
+   "city": "San Andrés",
+   "key": "san_andres"
+ },
+ {
+   "state": "San Andrés, Providencia y Santa Catalina",
+   "city": "Santa Catalina",
+   "key": "sap_santa_catalina"
+ },
+ {
+   "state": "Santander",
+   "city": "Aguada",
+   "key": "san_aguada"
+ },
+ {
+   "state": "Santander",
+   "city": "Albania",
+   "key": "san_albania"
+ },
+ {
+   "state": "Santander",
+   "city": "Aratoca",
+   "key": "san_aratoca"
+ },
+ {
+   "state": "Santander",
+   "city": "Barbosa",
+   "key": "san_barbosa"
+ },
+ {
+   "state": "Santander",
+   "city": "Barichara",
+   "key": "san_barichara"
+ },
+ {
+   "state": "Santander",
+   "city": "Barrancabermeja",
+   "key": "barrancabermeja"
+ },
+ {
+   "state": "Santander",
+   "city": "Betulia",
+   "key": "san_betulia"
+ },
+ {
+   "state": "Santander",
+   "city": "Bolívar",
+   "key": "san_bolivar"
+ },
+ {
+   "state": "Santander",
+   "city": "Bucaramanga",
+   "key": "bucaramanga"
+ },
+ {
+   "state": "Santander",
+   "city": "Cabrera",
+   "key": "san_cabrera"
+ },
+ {
+   "state": "Santander",
+   "city": "California",
+   "key": "san_california"
+ },
+ {
+   "state": "Santander",
+   "city": "Capitanejo",
+   "key": "san_capitanejo"
+ },
+ {
+   "state": "Santander",
+   "city": "Carcasí",
+   "key": "san_carcasi"
+ },
+ {
+   "state": "Santander",
+   "city": "Cepitá",
+   "key": "san_cepita"
+ },
+ {
+   "state": "Santander",
+   "city": "Cerrito",
+   "key": "san_cerrito"
+ },
+ {
+   "state": "Santander",
+   "city": "Charalá",
+   "key": "san_charala"
+ },
+ {
+   "state": "Santander",
+   "city": "Charta",
+   "key": "san_charta"
+ },
+ {
+   "state": "Santander",
+   "city": "Chima",
+   "key": "san_chima"
+ },
+ {
+   "state": "Santander",
+   "city": "Chipatá",
+   "key": "san_chipata"
+ },
+ {
+   "state": "Santander",
+   "city": "Cimitarra",
+   "key": "san_cimitarra"
+ },
+ {
+   "state": "Santander",
+   "city": "Concepción",
+   "key": "san_concepcion"
+ },
+ {
+   "state": "Santander",
+   "city": "Confines",
+   "key": "san_confines"
+ },
+ {
+   "state": "Santander",
+   "city": "Contratación",
+   "key": "san_contratacion"
+ },
+ {
+   "state": "Santander",
+   "city": "Coromoro",
+   "key": "san_coromoro"
+ },
+ {
+   "state": "Santander",
+   "city": "Curití",
+   "key": "san_curiti"
+ },
+ {
+   "state": "Santander",
+   "city": "El Carmen de Chucurí",
+   "key": "san_el_carmen_de_chucuri"
+ },
+ {
+   "state": "Santander",
+   "city": "El Guacamayo",
+   "key": "san_el_guacamayo"
+ },
+ {
+   "state": "Santander",
+   "city": "El Peñón",
+   "key": "san_el_penon"
+ },
+ {
+   "state": "Santander",
+   "city": "El Playón",
+   "key": "san_el_playon"
+ },
+ {
+   "state": "Santander",
+   "city": "Encino",
+   "key": "san_encino"
+ },
+ {
+   "state": "Santander",
+   "city": "Enciso",
+   "key": "san_enciso"
+ },
+ {
+   "state": "Santander",
+   "city": "Florián",
+   "key": "san_florian"
+ },
+ {
+   "state": "Santander",
+   "city": "Floridablanca",
+   "key": "san_floridablanca"
+ },
+ {
+   "state": "Santander",
+   "city": "Galán",
+   "key": "san_galan"
+ },
+ {
+   "state": "Santander",
+   "city": "Gámbita",
+   "key": "san_gambita"
+ },
+ {
+   "state": "Santander",
+   "city": "Girón",
+   "key": "san_giron"
+ },
+ {
+   "state": "Santander",
+   "city": "Guaca",
+   "key": "san_guaca"
+ },
+ {
+   "state": "Santander",
+   "city": "Guadalupe",
+   "key": "san_guadalupe"
+ },
+ {
+   "state": "Santander",
+   "city": "Guapotá",
+   "key": "san_guapota"
+ },
+ {
+   "state": "Santander",
+   "city": "Guavatá",
+   "key": "san_guavata"
+ },
+ {
+   "state": "Santander",
+   "city": "Güepsa",
+   "key": "san_guepsa"
+ },
+ {
+   "state": "Santander",
+   "city": "Hato",
+   "key": "san_hato"
+ },
+ {
+   "state": "Santander",
+   "city": "Jesús María",
+   "key": "san_jesus_maria"
+ },
+ {
+   "state": "Santander",
+   "city": "Jordán",
+   "key": "san_jordan"
+ },
+ {
+   "state": "Santander",
+   "city": "La Belleza",
+   "key": "san_la_belleza"
+ },
+ {
+   "state": "Santander",
+   "city": "La Paz",
+   "key": "san_la_paz"
+ },
+ {
+   "state": "Santander",
+   "city": "Landázuri",
+   "key": "san_landazuri"
+ },
+ {
+   "state": "Santander",
+   "city": "Lebrija",
+   "key": "san_lebrija"
+ },
+ {
+   "state": "Santander",
+   "city": "Los Santos",
+   "key": "san_los_santos"
+ },
+ {
+   "state": "Santander",
+   "city": "Macaravita",
+   "key": "san_macaravita"
+ },
+ {
+   "state": "Santander",
+   "city": "Málaga",
+   "key": "san_malaga"
+ },
+ {
+   "state": "Santander",
+   "city": "Matanza",
+   "key": "san_matanza"
+ },
+ {
+   "state": "Santander",
+   "city": "Mogotes",
+   "key": "san_mogotes"
+ },
+ {
+   "state": "Santander",
+   "city": "Molagavita",
+   "key": "san_molagavita"
+ },
+ {
+   "state": "Santander",
+   "city": "Ocamonte",
+   "key": "san_ocamonte"
+ },
+ {
+   "state": "Santander",
+   "city": "Oiba",
+   "key": "san_oiba"
+ },
+ {
+   "state": "Santander",
+   "city": "Onzaga",
+   "key": "san_onzaga"
+ },
+ {
+   "state": "Santander",
+   "city": "Palmar",
+   "key": "san_palmar"
+ },
+ {
+   "state": "Santander",
+   "city": "Palmas Del Socorro",
+   "key": "san_palmas_del_socorro"
+ },
+ {
+   "state": "Santander",
+   "city": "Páramo",
+   "key": "san_paramo"
+ },
+ {
+   "state": "Santander",
+   "city": "Piedecuesta",
+   "key": "san_piedecuesta"
+ },
+ {
+   "state": "Santander",
+   "city": "Pinchote",
+   "key": "san_pinchote"
+ },
+ {
+   "state": "Santander",
+   "city": "Puente Nacional",
+   "key": "san_puente_nacional"
+ },
+ {
+   "state": "Santander",
+   "city": "Puerto Parra",
+   "key": "san_puerto_parra"
+ },
+ {
+   "state": "Santander",
+   "city": "Puerto Wilches",
+   "key": "san_puerto_wilches"
+ },
+ {
+   "state": "Santander",
+   "city": "Rionegro",
+   "key": "san_rionegro"
+ },
+ {
+   "state": "Santander",
+   "city": "Sabana De Torres",
+   "key": "san_sabana_de_torres"
+ },
+ {
+   "state": "Santander",
+   "city": "San Andrés",
+   "key": "san_san_andres"
+ },
+ {
+   "state": "Santander",
+   "city": "San Benito",
+   "key": "san_san_benito"
+ },
+ {
+   "state": "Santander",
+   "city": "San Gil",
+   "key": "san_san_gil"
+ },
+ {
+   "state": "Santander",
+   "city": "San Joaquín",
+   "key": "san_san_joaquin"
+ },
+ {
+   "state": "Santander",
+   "city": "San José De Miranda",
+   "key": "san_san_jose_de_miranda"
+ },
+ {
+   "state": "Santander",
+   "city": "San Miguel",
+   "key": "san_san_miguel"
+ },
+ {
+   "state": "Santander",
+   "city": "San Vicente De Chucurí",
+   "key": "san_san_vicente_de_chucuri"
+ },
+ {
+   "state": "Santander",
+   "city": "Santa Bárbara",
+   "key": "san_santa_barbara"
+ },
+ {
+   "state": "Santander",
+   "city": "Santa Helena Del Opón",
+   "key": "san_santa_helena_del_opon"
+ },
+ {
+   "state": "Santander",
+   "city": "Simacota",
+   "key": "san_simacota"
+ },
+ {
+   "state": "Santander",
+   "city": "Socorro",
+   "key": "san_socorro"
+ },
+ {
+   "state": "Santander",
+   "city": "Suaita",
+   "key": "san_suaita"
+ },
+ {
+   "state": "Santander",
+   "city": "Sucre",
+   "key": "san_sucre"
+ },
+ {
+   "state": "Santander",
+   "city": "Suratá",
+   "key": "san_surata"
+ },
+ {
+   "state": "Santander",
+   "city": "Tona",
+   "key": "san_tona"
+ },
+ {
+   "state": "Santander",
+   "city": "Valle De San José",
+   "key": "san_valle_de_san_jose"
+ },
+ {
+   "state": "Santander",
+   "city": "Vélez",
+   "key": "san_velez"
+ },
+ {
+   "state": "Santander",
+   "city": "Vetas",
+   "key": "san_vetas"
+ },
+ {
+   "state": "Santander",
+   "city": "Villanueva",
+   "key": "san_villanueva"
+ },
+ {
+   "state": "Santander",
+   "city": "Zapatoca",
+   "key": "san_zapatoca"
+ },
+ {
+   "state": "Sucre",
+   "city": "Buenavista",
+   "key": "suc_buenavista"
+ },
+ {
+   "state": "Sucre",
+   "city": "Caimito",
+   "key": "suc_caimito"
+ },
+ {
+   "state": "Sucre",
+   "city": "Chalán",
+   "key": "suc_chalan"
+ },
+ {
+   "state": "Sucre",
+   "city": "Colosó",
+   "key": "suc_coloso"
+ },
+ {
+   "state": "Sucre",
+   "city": "Corozal",
+   "key": "suc_corozal"
+ },
+ {
+   "state": "Sucre",
+   "city": "Coveñas",
+   "key": "suc_covenas"
+ },
+ {
+   "state": "Sucre",
+   "city": "El Roble",
+   "key": "suc_el_roble"
+ },
+ {
+   "state": "Sucre",
+   "city": "Galeras",
+   "key": "suc_galeras"
+ },
+ {
+   "state": "Sucre",
+   "city": "Guaranda",
+   "key": "suc_guaranda"
+ },
+ {
+   "state": "Sucre",
+   "city": "La Unión",
+   "key": "suc_la_union"
+ },
+ {
+   "state": "Sucre",
+   "city": "Los Palmitos",
+   "key": "suc_los_palmitos"
+ },
+ {
+   "state": "Sucre",
+   "city": "Majagual",
+   "key": "suc_majagual"
+ },
+ {
+   "state": "Sucre",
+   "city": "Morroa",
+   "key": "suc_morroa"
+ },
+ {
+   "state": "Sucre",
+   "city": "Ovejas",
+   "key": "suc_ovejas"
+ },
+ {
+   "state": "Sucre",
+   "city": "Palmito",
+   "key": "suc_palmito"
+ },
+ {
+   "state": "Sucre",
+   "city": "Sampués",
+   "key": "suc_sampues"
+ },
+ {
+   "state": "Sucre",
+   "city": "San Benito Abad",
+   "key": "suc_san_benito_abad"
+ },
+ {
+   "state": "Sucre",
+   "city": "San Juan De Betulia",
+   "key": "suc_san_juan_de_betulia"
+ },
+ {
+   "state": "Sucre",
+   "city": "San Marcos",
+   "key": "suc_san_marcos"
+ },
+ {
+   "state": "Sucre",
+   "city": "San Onofre",
+   "key": "suc_san_onofre"
+ },
+ {
+   "state": "Sucre",
+   "city": "San Pedro",
+   "key": "suc_san_pedro"
+ },
+ {
+   "state": "Sucre",
+   "city": "Sincé",
+   "key": "suc_since"
+ },
+ {
+   "state": "Sucre",
+   "city": "Sincelejo",
+   "key": "sincelejo"
+ },
+ {
+   "state": "Sucre",
+   "city": "Sucre",
+   "key": "suc_sucre"
+ },
+ {
+   "state": "Sucre",
+   "city": "Tolú",
+   "key": "suc_tolu"
+ },
+ {
+   "state": "Sucre",
+   "city": "Tolu Viejo",
+   "key": "suc_toluviejo"
+ },
+ {
+   "state": "Tolima",
+   "city": "Alpujarra",
+   "key": "tol_alpujarra"
+ },
+ {
+   "state": "Tolima",
+   "city": "Alvarado",
+   "key": "tol_alvarado"
+ },
+ {
+   "state": "Tolima",
+   "city": "Ambalema",
+   "key": "tol_ambalema"
+ },
+ {
+   "state": "Tolima",
+   "city": "Anzoátegui",
+   "key": "tol_anzoategui"
+ },
+ {
+   "state": "Tolima",
+   "city": "Armero - Guayabal",
+   "key": "tol_armero"
+ },
+ {
+   "state": "Tolima",
+   "city": "Ataco",
+   "key": "tol_ataco"
+ },
+ {
+   "state": "Tolima",
+   "city": "Cajamarca",
+   "key": "tol_cajamarca"
+ },
+ {
+   "state": "Tolima",
+   "city": "Carmen De Apicalá",
+   "key": "tol_carmen_de_apicala"
+ },
+ {
+   "state": "Tolima",
+   "city": "Casabianca",
+   "key": "tol_casabianca"
+ },
+ {
+   "state": "Tolima",
+   "city": "Chaparral",
+   "key": "tol_chaparral"
+ },
+ {
+   "state": "Tolima",
+   "city": "Coello",
+   "key": "tol_coello"
+ },
+ {
+   "state": "Tolima",
+   "city": "Coyaima",
+   "key": "tol_coyaima"
+ },
+ {
+   "state": "Tolima",
+   "city": "Cunday",
+   "key": "tol_cunday"
+ },
+ {
+   "state": "Tolima",
+   "city": "Dolores",
+   "key": "tol_dolores"
+ },
+ {
+   "state": "Tolima",
+   "city": "Espinal",
+   "key": "tol_espinal"
+ },
+ {
+   "state": "Tolima",
+   "city": "Falan",
+   "key": "tol_falan"
+ },
+ {
+   "state": "Tolima",
+   "city": "Flandes",
+   "key": "tol_flandes"
+ },
+ {
+   "state": "Tolima",
+   "city": "Fresno",
+   "key": "tol_fresno"
+ },
+ {
+   "state": "Tolima",
+   "city": "Guamo",
+   "key": "tol_guamo"
+ },
+ {
+   "state": "Tolima",
+   "city": "Herveo",
+   "key": "tol_herveo"
+ },
+ {
+   "state": "Tolima",
+   "city": "Honda",
+   "key": "tol_honda"
+ },
+ {
+   "state": "Tolima",
+   "city": "Ibagué",
+   "key": "ibague"
+ },
+ {
+   "state": "Tolima",
+   "city": "Icononzo",
+   "key": "tol_icononzo"
+ },
+ {
+   "state": "Tolima",
+   "city": "Lérida",
+   "key": "tol_lerida"
+ },
+ {
+   "state": "Tolima",
+   "city": "Líbano",
+   "key": "tol_libano"
+ },
+ {
+   "state": "Tolima",
+   "city": "Mariquita",
+   "key": "tol_mariquita"
+ },
+ {
+   "state": "Tolima",
+   "city": "Melgar",
+   "key": "tol_melgar"
+ },
+ {
+   "state": "Tolima",
+   "city": "Murillo",
+   "key": "tol_murillo"
+ },
+ {
+   "state": "Tolima",
+   "city": "Natagaima",
+   "key": "tol_natagaima"
+ },
+ {
+   "state": "Tolima",
+   "city": "Ortega",
+   "key": "tol_ortega"
+ },
+ {
+   "state": "Tolima",
+   "city": "Palocabildo",
+   "key": "tol_palocabildo"
+ },
+ {
+   "state": "Tolima",
+   "city": "Piedras",
+   "key": "tol_piedras"
+ },
+ {
+   "state": "Tolima",
+   "city": "Planadas",
+   "key": "tol_planadas"
+ },
+ {
+   "state": "Tolima",
+   "city": "Prado",
+   "key": "tol_prado"
+ },
+ {
+   "state": "Tolima",
+   "city": "Purificación",
+   "key": "tol_purificacion"
+ },
+ {
+   "state": "Tolima",
+   "city": "Rioblanco",
+   "key": "tol_rioblanco"
+ },
+ {
+   "state": "Tolima",
+   "city": "Roncesvalles",
+   "key": "tol_roncesvalles"
+ },
+ {
+   "state": "Tolima",
+   "city": "Rovira",
+   "key": "tol_rovira"
+ },
+ {
+   "state": "Tolima",
+   "city": "Saldaña",
+   "key": "tol_saldana"
+ },
+ {
+   "state": "Tolima",
+   "city": "San Antonio",
+   "key": "tol_san_antonio"
+ },
+ {
+   "state": "Tolima",
+   "city": "San Luis",
+   "key": "tol_san_luis"
+ },
+ {
+   "state": "Tolima",
+   "city": "Santa Isabel",
+   "key": "tol_santa_isabel"
+ },
+ {
+   "state": "Tolima",
+   "city": "Suárez",
+   "key": "tol_suarez"
+ },
+ {
+   "state": "Tolima",
+   "city": "Valle De San Juan",
+   "key": "tol_valle_de_san_juan"
+ },
+ {
+   "state": "Tolima",
+   "city": "Venadillo",
+   "key": "tol_venadillo"
+ },
+ {
+   "state": "Tolima",
+   "city": "Villahermosa",
+   "key": "tol_villahermosa"
+ },
+ {
+   "state": "Tolima",
+   "city": "Villarrica",
+   "key": "tol_villarrica"
+ },
+ {
+   "state": "Valle del Cauca",
+   "city": "Alcalá",
+   "key": "vac_alcala"
+ },
+ {
+   "state": "Valle del Cauca",
+   "city": "Andalucía",
+   "key": "vac_andalucia"
+ },
+ {
+   "state": "Valle del Cauca",
+   "city": "Ansermanuevo",
+   "key": "vac_ansermanuevo"
+ },
+ {
+   "state": "Valle del Cauca",
+   "city": "Argelia",
+   "key": "vac_argelia"
+ },
+ {
+   "state": "Valle del Cauca",
+   "city": "Bolívar",
+   "key": "vac_bolivar"
+ },
+ {
+   "state": "Valle del Cauca",
+   "city": "Buenaventura",
+   "key": "vac_buenaventura"
+ },
+ {
+   "state": "Valle del Cauca",
+   "city": "Buga",
+   "key": "vac_buga"
+ },
+ {
+   "state": "Valle del Cauca",
+   "city": "Bugalagrande",
+   "key": "vac_bugalagrande"
+ },
+ {
+   "state": "Valle del Cauca",
+   "city": "Caicedonia",
+   "key": "vac_caicedonia"
+ },
+ {
+   "state": "Valle del Cauca",
+   "city": "Cali",
+   "key": "cali"
+ },
+ {
+   "state": "Valle del Cauca",
+   "city": "Calima",
+   "key": "vac_calima"
+ },
+ {
+   "state": "Valle del Cauca",
+   "city": "Candelaria",
+   "key": "vac_candelaria"
+ },
+ {
+   "state": "Valle del Cauca",
+   "city": "Cartago",
+   "key": "vac_cartago"
+ },
+ {
+   "state": "Valle del Cauca",
+   "city": "Dagua",
+   "key": "vac_dagua"
+ },
+ {
+   "state": "Valle del Cauca",
+   "city": "El Aguila",
+   "key": "vac_el_aguila"
+ },
+ {
+   "state": "Valle del Cauca",
+   "city": "El Cairo",
+   "key": "vac_el_cairo"
+ },
+ {
+   "state": "Valle del Cauca",
+   "city": "El Cerrito",
+   "key": "vac_el_cerrito"
+ },
+ {
+   "state": "Valle del Cauca",
+   "city": "El Dovio",
+   "key": "vac_el_dovio"
+ },
+ {
+   "state": "Valle del Cauca",
+   "city": "Florida",
+   "key": "vac_florida"
+ },
+ {
+   "state": "Valle del Cauca",
+   "city": "Ginebra",
+   "key": "vac_ginebra"
+ },
+ {
+   "state": "Valle del Cauca",
+   "city": "Guacarí",
+   "key": "vac_guacari"
+ },
+ {
+   "state": "Valle del Cauca",
+   "city": "Jamundí",
+   "key": "vac_jamundi"
+ },
+ {
+   "state": "Valle del Cauca",
+   "city": "La Cumbre",
+   "key": "vac_la_cumbre"
+ },
+ {
+   "state": "Valle del Cauca",
+   "city": "La Unión",
+   "key": "vac_la_union"
+ },
+ {
+   "state": "Valle del Cauca",
+   "city": "La Victoria",
+   "key": "vac_la_victoria"
+ },
+ {
+   "state": "Valle del Cauca",
+   "city": "Obando",
+   "key": "vac_obando"
+ },
+ {
+   "state": "Valle del Cauca",
+   "city": "Palmira",
+   "key": "vac_palmira"
+ },
+ {
+   "state": "Valle del Cauca",
+   "city": "Pradera",
+   "key": "vac_pradera"
+ },
+ {
+   "state": "Valle del Cauca",
+   "city": "Restrepo",
+   "key": "vac_restrepo"
+ },
+ {
+   "state": "Valle del Cauca",
+   "city": "Riofrío",
+   "key": "vac_riofrio"
+ },
+ {
+   "state": "Valle del Cauca",
+   "city": "Roldanillo",
+   "key": "vac_roldanillo"
+ },
+ {
+   "state": "Valle del Cauca",
+   "city": "San Pedro",
+   "key": "vac_san_pedro"
+ },
+ {
+   "state": "Valle del Cauca",
+   "city": "Sevilla",
+   "key": "vac_sevilla"
+ },
+ {
+   "state": "Valle del Cauca",
+   "city": "Toro",
+   "key": "vac_toro"
+ },
+ {
+   "state": "Valle del Cauca",
+   "city": "Trujillo",
+   "key": "vac_trujillo"
+ },
+ {
+   "state": "Valle del Cauca",
+   "city": "Tuluá",
+   "key": "vac_tulua"
+ },
+ {
+   "state": "Valle del Cauca",
+   "city": "Ulloa",
+   "key": "vac_ulloa"
+ },
+ {
+   "state": "Valle del Cauca",
+   "city": "Versalles",
+   "key": "vac_versalles"
+ },
+ {
+   "state": "Valle del Cauca",
+   "city": "Vijes",
+   "key": "vac_vijes"
+ },
+ {
+   "state": "Valle del Cauca",
+   "city": "Yotoco",
+   "key": "vac_yotoco"
+ },
+ {
+   "state": "Valle del Cauca",
+   "city": "Yumbo",
+   "key": "vac_yumbo"
+ },
+ {
+   "state": "Valle del Cauca",
+   "city": "Zarzal",
+   "key": "vac_zarzal"
+ },
+ {
+   "state": "Vaupés",
+   "city": "Carurú",
+   "key": "vau_caruru"
+ },
+ {
+   "state": "Vaupés",
+   "city": "Mitú",
+   "key": "mitu"
+ },
+ {
+   "state": "Vaupés",
+   "city": "Pacoa",
+   "key": "vau_pacoa"
+ },
+ {
+   "state": "Vaupés",
+   "city": "Papunaua",
+   "key": "vau_papunaua"
+ },
+ {
+   "state": "Vaupés",
+   "city": "Taraira",
+   "key": "vau_taraira"
+ },
+ {
+   "state": "Vaupés",
+   "city": "Yavaraté",
+   "key": "vau_yavarate"
+ },
+ {
+   "state": "Vichada",
+   "city": "Cumaribo",
+   "key": "vid_cumaribo"
+ },
+ {
+   "state": "Vichada",
+   "city": "La Primavera",
+   "key": "vid_la_primavera"
+ },
+ {
+   "state": "Vichada",
+   "city": "Puerto Carreño",
+   "key": "puerto_carreno"
+ },
+ {
+   "state": "Vichada",
+   "city": "Santa Rosalía",
+   "key": "vid_santa_rosalia"
+ }
+]
